@@ -1,0 +1,65 @@
+{ 
+    "_id" : ObjectId("5f0532aa81d20231a4f42a0d"), 
+    "dname" : "Sales", 
+    "description" : null, 
+    "email" : "", 
+    "hidden" : NumberInt(0), 
+    "delete_after_import" : NumberInt(0), 
+    "host" : "", 
+    "port" : "", 
+    "username" : "", 
+    "password" : "", 
+    "encryption" : "no", 
+    "calendar_id" : null, 
+    "sorder" : NumberInt(1), 
+    "created_at" : null, 
+    "updated_at" : null
+}
+{ 
+    "_id" : ObjectId("5f0532b581d20231a4f42a0e"), 
+    "dname" : "Support", 
+    "description" : null, 
+    "email" : "", 
+    "hidden" : NumberInt(0), 
+    "delete_after_import" : NumberInt(0), 
+    "host" : "", 
+    "port" : "", 
+    "username" : "", 
+    "password" : "", 
+    "encryption" : "no", 
+    "calendar_id" : null, 
+    "sorder" : NumberInt(3), 
+    "created_at" : null, 
+    "updated_at" : null
+}
+{ 
+    "_id" : ObjectId("5f0532c081d20231a4f42a0f"), 
+    "dname" : "Billing", 
+    "description" : null, 
+    "email" : "", 
+    "hidden" : NumberInt(0), 
+    "delete_after_import" : NumberInt(0), 
+    "host" : "", 
+    "port" : "", 
+    "username" : "", 
+    "password" : "", 
+    "encryption" : "no", 
+    "calendar_id" : null, 
+    "sorder" : NumberInt(4), 
+    "created_at" : null, 
+    "updated_at" : null
+}
+{ 
+    "_id" : ObjectId("5f05d68f150e000032002388"), 
+    "description" : null, 
+    "dname" : "New", 
+    "email" : "islamhafizul158@gmail.com", 
+    "hidden" : "0", 
+    "host" : "host", 
+    "port" : "1212", 
+    "username" : "islamhafizul158@gmail.com", 
+    "password" : "hafiz123321", 
+    "encryption" : "tls", 
+    "delete_after_import" : "0", 
+    "sorder" : NumberInt(1)
+}

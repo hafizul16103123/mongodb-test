@@ -1,0 +1,56 @@
+{ 
+    "_id" : ObjectId("5ef3184e0714732b74147c9f"), 
+    "id" : NumberInt(14), 
+    "name" : "Advertising", 
+    "type" : "Expense", 
+    "sorder" : NumberInt(4), 
+    "total_amount" : 2000.0, 
+    "budget" : NumberInt(0), 
+    "created_at" : null, 
+    "updated_at" : ISODate("2018-11-20T16:57:47.000+0000"), 
+    "total_spend" : NumberInt(0), 
+    "current_month_spend" : NumberInt(0), 
+    "current_year_spend" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ef318780714732b74147ca0"), 
+    "id" : NumberInt(15), 
+    "name" : "Bank and Credit Card Interest", 
+    "type" : "Expense", 
+    "sorder" : NumberInt(3), 
+    "total_amount" : NumberInt(80), 
+    "budget" : NumberInt(0), 
+    "created_at" : null, 
+    "updated_at" : ISODate("2018-11-20T16:57:47.000+0000"), 
+    "total_spend" : NumberInt(0), 
+    "current_month_spend" : NumberInt(0), 
+    "current_year_spend" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ef318920714732b74147ca1"), 
+    "id" : NumberInt(16), 
+    "name" : "Car and Truck", 
+    "type" : "Expense", 
+    "sorder" : NumberInt(2), 
+    "total_amount" : NumberInt(50), 
+    "budget" : NumberInt(0), 
+    "created_at" : null, 
+    "updated_at" : ISODate("2018-11-20T16:57:47.000+0000"), 
+    "total_spend" : NumberInt(0), 
+    "current_month_spend" : NumberInt(0), 
+    "current_year_spend" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ef318a50714732b74147ca2"), 
+    "id" : NumberInt(17), 
+    "name" : "Commissions and Fees", 
+    "type" : "Expense", 
+    "sorder" : NumberInt(1), 
+    "total_amount" : NumberInt(30), 
+    "budget" : NumberInt(0), 
+    "created_at" : null, 
+    "updated_at" : ISODate("2018-11-20T16:57:47.000+0000"), 
+    "total_spend" : NumberInt(0), 
+    "current_month_spend" : NumberInt(0), 
+    "current_year_spend" : NumberInt(0)
+}

@@ -1,0 +1,16 @@
+{ 
+    "_id" : NumberInt(1), 
+    "id" : NumberInt(1), 
+    "parent_id" : NumberInt(0), 
+    "name" : "Database", 
+    "content" : BinData(0, ""), 
+    "size" : NumberInt(0), 
+    "mtime" : NumberInt(0), 
+    "mime" : "directory", 
+    "read" : "1", 
+    "write" : "1", 
+    "locked" : "0", 
+    "hidden" : "0", 
+    "width" : NumberInt(0), 
+    "height" : NumberInt(0)
+}

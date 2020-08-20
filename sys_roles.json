@@ -1,0 +1,12 @@
+{ 
+    "_id" : ObjectId("5f09638346735b25bc6bb5e1"), 
+    "rname" : "Employee"
+}
+{ 
+    "_id" : ObjectId("5f0aefa2760a0000f0004a4d"), 
+    "rname" : "new role"
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff001770"), 
+    "rname" : "Employee"
+}

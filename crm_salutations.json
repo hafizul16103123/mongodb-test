@@ -1,0 +1,35 @@
+{ 
+    "_id" : ObjectId("5f01ae0cf213532304453845"), 
+    "sname" : "Mr.", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01ae24f213532304453846"), 
+    "sname" : "Ms.", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01ae30f213532304453847"), 
+    "sname" : "Mrs.", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01ae43f213532304453848"), 
+    "sname" : "Dr.", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01ae4ef213532304453849"), 
+    "sname" : "Prof.", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}

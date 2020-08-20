@@ -1,0 +1,99 @@
+{ 
+    "_id" : ObjectId("5f05298581d20231a4f429fc"), 
+    "tpl" : "Invoice Created", 
+    "sms" : "Updated Your Invoice- {{invoice_id}} is created. To view your invoice- {{invoice_url}}", 
+    "status" : null, 
+    "created_at" : null, 
+    "updated_at" : ISODate("2017-11-23T04:59:37.000+0000"), 
+    "updated_at_2" : null
+}
+{ 
+    "_id" : ObjectId("5f05298e81d20231a4f429fd"), 
+    "tpl" : "Invoice Payment Reminder", 
+    "sms" : "We have not received payment for invoice {{invoice_id}}, dated {{invoice_date}}. To view your invoice- {{invoice_url}}", 
+    "status" : null, 
+    "created_at" : null, 
+    "updated_at" : ISODate("2017-11-23T05:01:14.000+0000"), 
+    "updated_at_2" : null
+}
+{ 
+    "_id" : ObjectId("5f05299781d20231a4f429fe"), 
+    "tpl" : "Invoice Overdue Notice", 
+    "sms" : "Your Invoice- {{invoice_id}} is now overdue. To view your invoice- {{invoice_url}}", 
+    "status" : null, 
+    "created_at" : null, 
+    "updated_at" : ISODate("2017-11-23T04:59:20.000+0000"), 
+    "updated_at_2" : null
+}
+{ 
+    "_id" : ObjectId("5f0529a081d20231a4f429ff"), 
+    "tpl" : "Invoice Payment Confirmation", 
+    "sms" : "We have received your Payment for Invoice ID- {{invoice_id}}", 
+    "status" : null, 
+    "created_at" : null, 
+    "updated_at" : ISODate("2017-11-23T05:02:15.000+0000"), 
+    "updated_at_2" : null
+}
+{ 
+    "_id" : ObjectId("5f0529a981d20231a4f42a00"), 
+    "tpl" : "Invoice Refund Confirmation", 
+    "sms" : "Your Payment for {{invoice_id}} has been refunded.", 
+    "status" : null, 
+    "created_at" : null, 
+    "updated_at" : ISODate("2017-11-23T05:03:19.000+0000"), 
+    "updated_at_2" : null
+}
+{ 
+    "_id" : ObjectId("5f0529b281d20231a4f42a01"), 
+    "tpl" : "Quote Created", 
+    "sms" : "A Quote has been created- {{quote_id}}. You can view this Quote- {{quote_url}}", 
+    "status" : null, 
+    "created_at" : null, 
+    "updated_at" : ISODate("2017-11-23T05:03:19.000+0000"), 
+    "updated_at_2" : null
+}
+{ 
+    "_id" : ObjectId("5f0529bc81d20231a4f42a02"), 
+    "tpl" : "Quote Accepted", 
+    "sms" : "Thanks for Accepting Quote - {{quote_id}}. You can view this Quote- {{quote_url}}", 
+    "status" : null, 
+    "created_at" : null, 
+    "updated_at" : ISODate("2017-11-23T05:03:19.000+0000"), 
+    "updated_at_2" : null
+}
+{ 
+    "_id" : ObjectId("5f0529c781d20231a4f42a03"), 
+    "tpl" : "Quote Cancelled", 
+    "sms" : "Quote has been cancelled - {{quote_id}}. You can view this Quote- {{quote_url}}", 
+    "status" : null, 
+    "created_at" : null, 
+    "updated_at" : ISODate("2017-11-23T05:03:19.000+0000"), 
+    "updated_at_2" : null
+}
+{ 
+    "_id" : ObjectId("5f0529d281d20231a4f42a04"), 
+    "tpl" : "Quote Accepted: Admin Notification", 
+    "sms" : "Quote - {{quote_id}} has been accepted. You can view this Quote- {{quote_url}}", 
+    "status" : null, 
+    "created_at" : null, 
+    "updated_at" : ISODate("2017-11-23T05:03:19.000+0000"), 
+    "updated_at_2" : null
+}
+{ 
+    "_id" : ObjectId("5f0529dd81d20231a4f42a05"), 
+    "tpl" : "Quote Cancelled: Admin Notification", 
+    "sms" : "Quote - {{quote_id}} has been Cancelled. You can view this Quote- {{quote_url}}", 
+    "status" : null, 
+    "created_at" : null, 
+    "updated_at" : null, 
+    "updated_at_2" : null
+}
+{ 
+    "_id" : ObjectId("5f0529ea81d20231a4f42a06"), 
+    "tpl" : "Ticket Assigned: Admin Notification", 
+    "sms" : "Ticket - {{ticket_id}} has been assigned to you.", 
+    "status" : null, 
+    "created_at" : ISODate("2018-10-24T17:33:32.000+0000"), 
+    "updated_at" : ISODate("2018-10-24T17:33:32.000+0000"), 
+    "updated_at_2" : null
+}

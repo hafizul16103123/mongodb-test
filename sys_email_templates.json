@@ -1,0 +1,169 @@
+{ 
+    "_id" : ObjectId("5f034b3ad112a21edcaa8611"), 
+    "tplname" : "Invoice:Invoice Created", 
+    "language_id" : NumberInt(1), 
+    "subject" : "{{business_name}} Invoice", 
+    "message" : "<div style=\"line-height:1.6;color:#222;text-align:left;width:550px;font-size:10pt;margin:0px 10px;font-family:verdana,'droid sans','lucida sans',sans-serif;padding:14px;border:3px solid #d8d8d8;border-top:3px solid #007bc3\"><div style=\"padding:5px;font-size:11pt;font-weight:bold\">   Greetings,</div>\t<div style=\"padding:5px\">\t\tThis email serves as your official invoice from <strong>{{business_name}}. </strong>\t</div><div style=\"padding:10px 5px\">    Invoice URL: <a href=\"{{invoice_url}}\" target=\"_blank\">{{invoice_url}}</a><a target=\"_blank\" style=\"color:#1da9c0;font-weight:bold;padding:3px;text-decoration:none\" href=\"{{app_url}}\"></a><br>Invoice ID: {{invoice_id}}<br>Invoice Amount: {{invoice_amount}}<br>Due Date: {{invoice_due_date}}</div><div style=\"padding:5px\"><span style=\"font-size: 13.3333330154419px; line-height: 21.3333320617676px;\">If you have any questions or need assistance, please don't hesitate to contact us.</span><br></div><div style=\"padding:0px 5px\">\t<div>Best Regards,<br>{{business_name}} Team</div></div></div>", 
+    "send" : "Yes", 
+    "core" : "Yes", 
+    "hidden" : false
+}
+{ 
+    "_id" : ObjectId("5f034b54d112a21edcaa8612"), 
+    "tplname" : "Admin:Password Change Request", 
+    "language_id" : NumberInt(1), 
+    "subject" : "{{business_name}} password change request", 
+    "message" : "<div style=\"line-height: 1.6; color: #222; text-align: left; width: 550px; font-size: 10pt; margin: 0px 10px; font-family: verdana,'droid sans','lucida sans',sans-serif; padding: 14px; border: 3px solid #d8d8d8; border-top: 3px solid #007bc3;\">\n<div style=\"padding: 5px; font-size: 11pt; font-weight: bold;\">Hi {{name}},</div>\n<div style=\"padding: 5px;\">I am piyash,This is to confirm that we have received a Forgot Password request for your Account Username - {{username}} <br />From the IP Address - {{ip_address}}</div>\n<div style=\"padding: 5px;\">Click this linke to reset your password- <br /><a style=\"color: #1da9c0; font-weight: bold; padding: 3px; text-decoration: none;\" href=\"http://localhost/fastlane/{{password_reset_link}}\" target=\"_blank\" rel=\"noopener noreferrer\">{{password_reset_link}}</a></div>\n<div style=\"padding: 5px;\">Please note: until your password has been changed, your current password will remain valid. The Forgot Password Link will be available for a limited time only.</div>\n<div style=\"padding: 0px 5px;\">\n<div>Best Regards,<br />{{business_name}} Team</div>\n</div>\n</div>", 
+    "send" : "Yes", 
+    "core" : "Yes", 
+    "hidden" : false
+}
+{ 
+    "_id" : ObjectId("5f034b62d112a21edcaa8613"), 
+    "tplname" : "Admin:New Password", 
+    "language_id" : NumberInt(1), 
+    "subject" : "{{business_name}} New Password for Admin", 
+    "message" : "<div style=\"line-height:1.6;color:#222;text-align:left;width:550px;font-size:10pt;margin:0px 10px;font-family:verdana,'droid sans','lucida sans',sans-serif;padding:14px;border:3px solid #d8d8d8;border-top:3px solid #007bc3\">\n\n<div style=\"padding:5px;font-size:11pt;font-weight:bold\">\n   Hello {{name}}\n</div>\n\n\n\t<div style=\"padding:5px\">\n\t\tHere is your new password for <strong>{{business_name}}. </strong>\n\t</div>\n\n\t\n<div style=\"padding:10px 5px\">\n    Log in URL: <a target=\"_blank\" style=\"color:#1da9c0;font-weight:bold;padding:3px;text-decoration:none\" href=\"{{login_url}}\">{{login_url}}</a><br>Username: {{username}}<br>Password: {{password}}</div>\n\n<div style=\"padding:5px\">For security reason, Please change your password after login. </div>\n\n<div style=\"padding:0px 5px\">\n\t<div>Best Regards,<br>{{business_name}} Team</div>\n\n</div>\n\n</div>", 
+    "send" : "Yes", 
+    "core" : "Yes", 
+    "hidden" : false
+}
+{ 
+    "_id" : ObjectId("5f034b6ed112a21edcaa8614"), 
+    "tplname" : "Invoice:Invoice Payment Reminder", 
+    "language_id" : NumberInt(1), 
+    "subject" : "{{business_name}} Invoice Payment Reminder", 
+    "message" : "<div style=\"line-height:1.6;color:#222;text-align:left;width:550px;font-size:10pt;margin:0px 10px;font-family:verdana,'droid sans','lucida sans',sans-serif;padding:14px;border:3px solid #d8d8d8;border-top:3px solid #007bc3\"><div style=\"padding:5px;font-size:11pt;font-weight:bold\">   Greetings,</div>\t<div style=\"padding:5px\">\t\tThis is a billing reminder that your invoice no. {{invoice_id}} which was generated on {{invoice_date}} is due on {{invoice_due_date}}. \t</div><div style=\"padding:10px 5px\">    Invoice URL: <a href=\"{{invoice_url}}\" target=\"_blank\">{{invoice_url}}</a><a target=\"_blank\" style=\"color:#1da9c0;font-weight:bold;padding:3px;text-decoration:none\" href=\"{{app_url}}\"></a><br>Invoice ID: {{invoice_id}}<br>Invoice Amount: {{invoice_amount}}<br>Due Date: {{invoice_due_date}}</div><div style=\"padding:5px\"><span style=\"font-size: 13.3333330154419px; line-height: 21.3333320617676px;\">If you have any questions or need assistance, please don't hesitate to contact us.</span><br></div><div style=\"padding:0px 5px\">\t<div>Best Regards,<br>{{business_name}} Team</div></div></div>", 
+    "send" : "Yes", 
+    "core" : "Yes", 
+    "hidden" : false
+}
+{ 
+    "_id" : ObjectId("5f034b7cd112a21edcaa8615"), 
+    "tplname" : "Invoice:Invoice Overdue Notice", 
+    "language_id" : NumberInt(1), 
+    "subject" : "{{business_name}} Invoice Overdue Notice", 
+    "message" : "<div style=\"line-height:1.6;color:#222;text-align:left;width:550px;font-size:10pt;margin:0px 10px;font-family:verdana,'droid sans','lucida sans',sans-serif;padding:14px;border:3px solid #d8d8d8;border-top:3px solid #007bc3\"><div style=\"padding:5px;font-size:11pt;font-weight:bold\">   Greetings,</div>\t<div style=\"padding:5px\">\t\tThis is the notice that your invoice no. {{invoice_id}} which was generated on {{invoice_date}} is now overdue.\t</div>\t<div style=\"padding:10px 5px\">    Invoice URL: <a href=\"{{invoice_url}}\" target=\"_blank\">{{invoice_url}}</a><a target=\"_blank\" style=\"color:#1da9c0;font-weight:bold;padding:3px;text-decoration:none\" href=\"{{app_url}}\"></a><br>Invoice ID: {{invoice_id}}<br>Invoice Amount: {{invoice_amount}}<br>Due Date: {{invoice_due_date}}</div><div style=\"padding:5px\"><span style=\"font-size: 13.3333330154419px; line-height: 21.3333320617676px;\">If you have any questions or need assistance, please don't hesitate to contact us.</span><br></div><div style=\"padding:0px 5px\">\t<div>Best Regards,<br>{{business_name}} Team</div></div></div>", 
+    "send" : "Yes", 
+    "core" : "Yes", 
+    "hidden" : false
+}
+{ 
+    "_id" : ObjectId("5f034b94d112a21edcaa8616"), 
+    "tplname" : "Invoice:Invoice Payment Confirmation", 
+    "language_id" : NumberInt(1), 
+    "subject" : "{{business_name}} Invoice Payment Confirmation", 
+    "message" : "<div style=\"line-height:1.6;color:#222;text-align:left;width:550px;font-size:10pt;margin:0px 10px;font-family:verdana,'droid sans','lucida sans',sans-serif;padding:14px;border:3px solid #d8d8d8;border-top:3px solid #007bc3\">\n\n<div style=\"padding:5px;font-size:11pt;font-weight:bold\">\n   Greetings,\n</div>\n\n\n\n\t<div style=\"padding:5px\">\n\t\tThis is a payment receipt for Invoice {{invoice_id}} sent on {{invoice_date}}.\n\t</div>\n\n\n\t<div style=\"padding:5px\">\n\t\tLogin to your client Portal to view this invoice.\n\t</div>\n\n\n<div style=\"padding:10px 5px\">\n    Invoice URL: <a href=\"{{invoice_url}}\" target=\"_blank\">{{invoice_url}}</a><a target=\"_blank\" style=\"color:#1da9c0;font-weight:bold;padding:3px;text-decoration:none\" href=\"{{app_url}}\"></a><br>Invoice ID: {{invoice_id}}<br>Invoice Amount: {{invoice_amount}}<br>Due Date: {{invoice_due_date}}</div>\n\n\n<div style=\"padding:5px\"><span style=\"font-size: 13.3333330154419px; line-height: 21.3333320617676px;\">If you have any questions or need assistance, please don't hesitate to contact us.</span><br></div>\n\n\n<div style=\"padding:0px 5px\">\n\t<div>Best Regards,<br>{{business_name}} Team</div>\n\n\n</div>\n\n\n</div>", 
+    "send" : "Yes", 
+    "core" : "Yes", 
+    "hidden" : false
+}
+{ 
+    "_id" : ObjectId("5f034ba1d112a21edcaa8617"), 
+    "tplname" : "Invoice:Invoice Refund Confirmation", 
+    "language_id" : NumberInt(1), 
+    "subject" : "{{business_name}} Invoice Refund Confirmation", 
+    "message" : "<div style=\"line-height:1.6;color:#222;text-align:left;width:550px;font-size:10pt;margin:0px 10px;font-family:verdana,'droid sans','lucida sans',sans-serif;padding:14px;border:3px solid #d8d8d8;border-top:3px solid #007bc3\"><div style=\"padding:5px;font-size:11pt;font-weight:bold\">   Greetings,</div>\t<div style=\"padding:5px\">\t\tThis is confirmation that a refund has been processed for Invoice {{invoice_id}} sent on {{invoice_date}}.\t</div><div style=\"padding:10px 5px\">    Invoice URL: <a href=\"{{invoice_url}}\" target=\"_blank\">{{invoice_url}}</a><a target=\"_blank\" style=\"color:#1da9c0;font-weight:bold;padding:3px;text-decoration:none\" href=\"{{app_url}}\"></a><br>Invoice ID: {{invoice_id}}<br>Invoice Amount: {{invoice_amount}}<br>Due Date: {{invoice_due_date}}</div><div style=\"padding:5px\"><span style=\"font-size: 13.3333330154419px; line-height: 21.3333320617676px;\">If you have any questions or need assistance, please don't hesitate to contact us.</span><br></div><div style=\"padding:0px 5px\">\t<div>Best Regards,<br>{{business_name}} Team</div></div></div>", 
+    "send" : "Yes", 
+    "core" : "Yes", 
+    "hidden" : false
+}
+{ 
+    "_id" : ObjectId("5f034bb2d112a21edcaa8618"), 
+    "tplname" : "Quote:Quote Created", 
+    "language_id" : NumberInt(1), 
+    "subject" : "{{quote_subject}}", 
+    "message" : "<div style=\"line-height:1.6;color:#222;text-align:left;width:550px;font-size:10pt;margin:0px 10px;font-family:verdana,sans-serif;padding:14px;border:3px solid #d8d8d8;border-top:3px solid #007bc3\"><div style=\"padding:5px;font-size:11pt;font-weight:bold\">   Greetings,</div>\t<div style=\"padding:5px\">\t\tDear {{contact_name}},&nbsp;<br> Here is the quote you requested for.  The quote is valid until {{valid_until}}.\t</div><div style=\"padding:10px 5px\">    Quote Unique URL: <a href=\"{{quote_url}}\" target=\"_blank\">{{quote_url}}</a><br></div><div style=\"padding:5px\"><span style=\"font-size: 13.3333330154419px; line-height: 21.3333320617676px;\">You may view the quote at any time and simply reply to this email with any further questions or requirement.</span><br></div><div style=\"padding:0px 5px\">\t<div>Best Regards,<br>{{business_name}} Team</div></div></div>", 
+    "send" : "Yes", 
+    "core" : "Yes", 
+    "hidden" : false
+}
+{ 
+    "_id" : ObjectId("5f034bc4d112a21edcaa8619"), 
+    "tplname" : "Quote:Quote Created", 
+    "language_id" : NumberInt(1), 
+    "subject" : "{{quote_subject}}", 
+    "message" : "<div style=\"line-height:1.6;color:#222;text-align:left;width:550px;font-size:10pt;margin:0px 10px;font-family:verdana,sans-serif;padding:14px;border:3px solid #d8d8d8;border-top:3px solid #007bc3\"><div style=\"padding:5px;font-size:11pt;font-weight:bold\">   Greetings,</div>\t<div style=\"padding:5px\">\t\tDear {{contact_name}},&nbsp;<br> Here is the quote you requested for.  The quote is valid until {{valid_until}}.\t</div><div style=\"padding:10px 5px\">    Quote Unique URL: <a href=\"{{quote_url}}\" target=\"_blank\">{{quote_url}}</a><br></div><div style=\"padding:5px\"><span style=\"font-size: 13.3333330154419px; line-height: 21.3333320617676px;\">You may view the quote at any time and simply reply to this email with any further questions or requirement.</span><br></div><div style=\"padding:0px 5px\">\t<div>Best Regards,<br>{{business_name}} Team</div></div></div>", 
+    "send" : "Yes", 
+    "core" : "Yes", 
+    "hidden" : false
+}
+{ 
+    "_id" : ObjectId("5f034bd1d112a21edcaa861a"), 
+    "tplname" : "Tickets:Client Ticket Created", 
+    "language_id" : NumberInt(1), 
+    "subject" : "{{subject}}", 
+    "message" : "<p>{{client_name}},</p>\n<p>Thank you for contacting our support team. A support ticket has now been opened for your request. You will be notified when a response is made by email. Your ticket ID is {{ticket_id}} and a copy of your original message is included below.</p>\n<p>Subject: {{ticket_subject}} <br /> Message: <br /> {{message}} <br /> Priority: {{ticket_priority}} <br /> Status: {{ticket_status}}</p>\n<p>You can view the ticket at any time at {{ticket_link}}</p>", 
+    "send" : "Yes", 
+    "core" : "Yes", 
+    "hidden" : false
+}
+{ 
+    "_id" : ObjectId("5f034bddd112a21edcaa861b"), 
+    "tplname" : "Tickets:Admin Ticket Created", 
+    "language_id" : NumberInt(1), 
+    "subject" : "{{subject}}", 
+    "message" : "<p>{{admin_view_link}}</p> {{message}}", 
+    "send" : "Yes", 
+    "core" : "Yes", 
+    "hidden" : false
+}
+{ 
+    "_id" : ObjectId("5f034bf8d112a21edcaa861c"), 
+    "tplname" : "Tickets:Client Response", 
+    "language_id" : NumberInt(1), 
+    "subject" : "{{subject}}", 
+    "message" : "<p>{{ticket_message}}</p>\n<p>----------------------------------------------<br /> Ticket ID: #{{ticket_id}}<br /> Subject: {{ticket_subject}}<br /> Status: {{ticket_status}}<br /> Ticket URL: {{ticket_link}}<br /> ----------------------------------------------</p>", 
+    "send" : "Yes", 
+    "core" : "Yes", 
+    "hidden" : false
+}
+{ 
+    "_id" : ObjectId("5f034c04d112a21edcaa861d"), 
+    "tplname" : "Tickets:Admin Response", 
+    "language_id" : NumberInt(1), 
+    "subject" : "{{subject}}", 
+    "message" : "<p>{$ticket_message}</p>\n<p>----------------------------------------------<br /> Ticket ID: #{{ticket_id}}<br /> Subject: {{ticket_subject}}<br /> Status: {{ticket_status}}<br /> Ticket URL: {{ticket_link}}<br /> ----------------------------------------------</p>", 
+    "send" : "Yes", 
+    "core" : "Yes", 
+    "hidden" : false
+}
+{ 
+    "_id" : ObjectId("5f034c1cd112a21edcaa861e"), 
+    "tplname" : "Purchase Invoice:Invoice Created", 
+    "language_id" : NumberInt(1), 
+    "subject" : "{{business_name}} Invoice", 
+    "message" : "<div style=\"line-height: 1.6; color: #222; text-align: left; width: 550px; font-size: 10pt; margin: 0px 10px; font-family: verdana,'droid sans','lucida sans',sans-serif; padding: 14px; border: 3px solid #d8d8d8; border-top: 3px solid #007bc3;\">\n<div style=\"padding: 5px; font-size: 11pt; font-weight: bold;\">Greetings,</div>\n<div style=\"padding: 5px;\">This email serves as your official invoice from <strong>{{business_name}}. </strong></div>\n<div style=\"padding: 10px 5px;\">Invoice URL: {{invoice_url}}<br />Invoice ID: {{invoice_id}}<br />Invoice Amount: {{invoice_amount}}</div>\n<div style=\"padding: 5px;\"><span style=\"font-size: 13.3333330154419px; line-height: 21.3333320617676px;\">If you have any questions or need assistance, please don't hesitate to contact us.</span></div>\n<div style=\"padding: 0px 5px;\">\n<div>Best Regards,<br />{{business_name}} Team</div>\n</div>\n</div>", 
+    "send" : "Yes", 
+    "core" : "Yes", 
+    "hidden" : false
+}
+{ 
+    "_id" : ObjectId("5f034c2ad112a21edcaa861f"), 
+    "tplname" : "Quote:Quote Cancelled", 
+    "language_id" : NumberInt(1), 
+    "subject" : "{{business_name}} Quote", 
+    "message" : "<div style=\"line-height: 1.6; color: #222; text-align: left; width: 550px; font-size: 10pt; margin: 0px 10px; font-family: verdana,sans-serif; padding: 14px; border: 3px solid #d8d8d8; border-top: 3px solid #007bc3;\">\n<div style=\"padding: 5px; font-size: 11pt; font-weight: bold;\">Greetings,</div>\n<div style=\"padding: 5px;\">Dear {{contact_name}},&nbsp;<br />We are sorry to see you go. If you chnage your mind, you can Accept it again from following url. The quote is valid until {{valid_until}}.</div>\n<div style=\"padding: 10px 5px;\">Quote Unique URL: <a href=\"http://stackb.dev/{{quote_url}}\" target=\"_blank\" rel=\"noopener noreferrer\">{{quote_url}}</a></div>\n<div style=\"padding: 5px;\"><span style=\"font-size: 13.3333330154419px; line-height: 21.3333320617676px;\">You may view the quote at any time and simply reply to this email with any further questions or requirement.</span></div>\n<div style=\"padding: 0px 5px;\">\n<div>Best Regards,<br />{{business_name}} Team</div>\n</div>\n</div>", 
+    "send" : "Yes", 
+    "core" : "Yes", 
+    "hidden" : false
+}
+{ 
+    "_id" : ObjectId("5f034c71d112a21edcaa8620"), 
+    "language_id" : NumberInt(1), 
+    "tplname" : "Quote:Quote Accepted", 
+    "subject" : "{{business_name}} Quote", 
+    "message" : "<div style=\"line-height: 1.6; color: #222; text-align: left; width: 550px; font-size: 10pt; margin: 0px 10px; font-family: verdana,sans-serif; padding: 14px; border: 3px solid #d8d8d8; border-top: 3px solid #007bc3;\">\n<div style=\"padding: 5px; font-size: 11pt; font-weight: bold;\">Greetings,</div>\n<div style=\"padding: 5px;\">Dear {{contact_name}},&nbsp;<br />Thank you for accepting the Quote.</div>\n<div style=\"padding: 10px 5px;\">Quote: <a href=\"{{quote_url}}\" target=\"_blank\" rel=\"noopener noreferrer\">{{quote_url}}</a></div>\n<div style=\"padding: 5px;\"><span style=\"font-size: 13.3333330154419px; line-height: 21.3333320617676px;\">You may view the quote at any time and simply reply to this email with any further questions or requirement.</span></div>\n<div style=\"padding: 0px 5px;\">\n<div>Best Regards,<br />{{business_name}} Team</div>\n</div>\n</div>", 
+    "send" : "Yes", 
+    "core" : "Yes", 
+    "hidden" : false
+}
+{ 
+    "_id" : ObjectId("5f0d47737028000059002eca"), 
+    "tplname" : "new3", 
+    "subject" : "erer", 
+    "send" : "No", 
+    "message" : "bfd", 
+    "core" : "No", 
+    "hidden" : NumberInt(0)
+}

@@ -1,0 +1,19 @@
+{ 
+    "_id" : ObjectId("5f05291e150e000032002379"), 
+    "created_at" : "2020-07-08", 
+    "req_time" : null, 
+    "resp" : null, 
+    "status" : null, 
+    "type" : "Sent", 
+    "cid" : null, 
+    "aid" : null, 
+    "company_id" : null, 
+    "trid" : null, 
+    "lid" : null, 
+    "oid" : null, 
+    "sms_from" : "CLX", 
+    "sms_to" : "01521405692,01744829193", 
+    "sms" : "", 
+    "iid" : NumberInt(0), 
+    "driver" : "Nexmo"
+}

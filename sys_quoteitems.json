@@ -1,0 +1,154 @@
+{ 
+    "_id" : ObjectId("5f1957d54c520000c0006f86"), 
+    "qid" : ObjectId("5f1957d54c520000c0006f85"), 
+    "description" : "klk", 
+    "qty" : 1.0, 
+    "amount" : 1.0, 
+    "discount" : "0.00", 
+    "total" : 1.0, 
+    "itemcode" : "", 
+    "taxable" : "0"
+}
+{ 
+    "_id" : ObjectId("5f1957d54c520000c0006f87"), 
+    "qid" : ObjectId("5f1957d54c520000c0006f85"), 
+    "description" : "", 
+    "qty" : 2.0, 
+    "amount" : 2.0, 
+    "discount" : "0.00", 
+    "total" : 4.0, 
+    "itemcode" : "", 
+    "taxable" : "0"
+}
+{ 
+    "_id" : ObjectId("5f19585f4c520000c0006f89"), 
+    "qid" : ObjectId("5f19585f4c520000c0006f88"), 
+    "description" : "", 
+    "qty" : 2.0, 
+    "amount" : 2.0, 
+    "discount" : "0.00", 
+    "total" : 4.0, 
+    "itemcode" : "", 
+    "taxable" : "0"
+}
+{ 
+    "_id" : ObjectId("5f19585f4c520000c0006f8a"), 
+    "qid" : ObjectId("5f19585f4c520000c0006f88"), 
+    "description" : "p1", 
+    "qty" : 1.0, 
+    "amount" : 120.0, 
+    "discount" : "0.00", 
+    "total" : 120.0, 
+    "itemcode" : "", 
+    "taxable" : "0"
+}
+{ 
+    "_id" : ObjectId("5f19585f4c520000c0006f8b"), 
+    "qid" : ObjectId("5f19585f4c520000c0006f88"), 
+    "description" : "s1", 
+    "qty" : 1.0, 
+    "amount" : 200.0, 
+    "discount" : "0.00", 
+    "total" : 200.0, 
+    "itemcode" : "", 
+    "taxable" : "0"
+}
+{ 
+    "_id" : ObjectId("5f1958d84c520000c0006f91"), 
+    "qid" : ObjectId("5f1958d84c520000c0006f90"), 
+    "description" : "", 
+    "qty" : 3.0, 
+    "amount" : 3.0, 
+    "discount" : "0.00", 
+    "total" : 9.0, 
+    "itemcode" : "", 
+    "taxable" : "0"
+}
+{ 
+    "_id" : ObjectId("5f19594c4c520000c0006f93"), 
+    "qid" : ObjectId("5f19594c4c520000c0006f92"), 
+    "description" : "vb", 
+    "qty" : 2.0, 
+    "amount" : 3.0, 
+    "discount" : "0.00", 
+    "total" : 6.0, 
+    "itemcode" : "", 
+    "taxable" : "0"
+}
+{ 
+    "_id" : ObjectId("5f195a214c520000c0006f96"), 
+    "qid" : ObjectId("5f195a214c520000c0006f95"), 
+    "description" : "", 
+    "qty" : 2.0, 
+    "amount" : 2.0, 
+    "discount" : "0.00", 
+    "total" : 4.0, 
+    "itemcode" : "", 
+    "taxable" : "0"
+}
+{ 
+    "_id" : ObjectId("5f195b8a4c520000c0006f99"), 
+    "qid" : ObjectId("5f195b8a4c520000c0006f98"), 
+    "description" : "", 
+    "qty" : 5.0, 
+    "amount" : 5.0, 
+    "discount" : "0.00", 
+    "total" : 25.0, 
+    "itemcode" : "", 
+    "taxable" : "0"
+}
+{ 
+    "_id" : ObjectId("5f195b8a4c520000c0006f9a"), 
+    "qid" : ObjectId("5f195b8a4c520000c0006f98"), 
+    "description" : "", 
+    "qty" : 6.0, 
+    "amount" : 6.0, 
+    "discount" : "0.00", 
+    "total" : 36.0, 
+    "itemcode" : "", 
+    "taxable" : "0"
+}
+{ 
+    "_id" : ObjectId("5f195ba84c520000c0006f9c"), 
+    "qid" : ObjectId("5f195ba84c520000c0006f9b"), 
+    "description" : "", 
+    "qty" : 4.0, 
+    "amount" : 4.0, 
+    "discount" : "0.00", 
+    "total" : 16.0, 
+    "itemcode" : "", 
+    "taxable" : "0"
+}
+{ 
+    "_id" : ObjectId("5f195ba84c520000c0006f9d"), 
+    "qid" : ObjectId("5f195ba84c520000c0006f9b"), 
+    "description" : "", 
+    "qty" : 5.0, 
+    "amount" : 5.0, 
+    "discount" : "0.00", 
+    "total" : 25.0, 
+    "itemcode" : "", 
+    "taxable" : "0"
+}
+{ 
+    "_id" : ObjectId("5f1bc0c5f44c0000020002e9"), 
+    "qid" : ObjectId("5f1bc0c5f44c0000020002e8"), 
+    "description" : "", 
+    "qty" : 1.0, 
+    "amount" : 1.0, 
+    "discount" : "0.00", 
+    "total" : 1.0, 
+    "itemcode" : "", 
+    "taxable" : "0"
+}
+{ 
+    "_id" : ObjectId("5f1bc0c5f44c0000020002ea"), 
+    "qid" : ObjectId("5f1bc0c5f44c0000020002e8"), 
+    "description" : "", 
+    "qty" : 11.0, 
+    "amount" : 11.0, 
+    "discount" : "0.00", 
+    "total" : 121.0, 
+    "itemcode" : "", 
+    "taxable" : "0"
+}

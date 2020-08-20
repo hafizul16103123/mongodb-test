@@ -1,0 +1,11 @@
+{ 
+    "_id" : ObjectId("5f03d82aef420000d9003638"), 
+    "status" : "Published", 
+    "title" : "jhkmhjmk", 
+    "slug" : "jhkmhjmk", 
+    "description" : "hjghjg", 
+    "updated_at" : "2020-07-07 08:04:26", 
+    "created_by" : ObjectId("5f01bb41f21353230445387b"), 
+    "created_at" : "2020-07-07 08:04:26", 
+    "views" : NumberInt(0)
+}

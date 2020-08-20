@@ -1,0 +1,12 @@
+{ 
+    "_id" : ObjectId("5f1939d64c520000c0006f11"), 
+    "rtype" : "invoice", 
+    "rid" : "5f1939a74c520000c0006f0b", 
+    "did" : ObjectId("5f1939d64c520000c0006f10")
+}
+{ 
+    "_id" : ObjectId("5f193d0f4c520000c0006f38"), 
+    "rtype" : "invoice", 
+    "rid" : "5f193cb94c520000c0006f30", 
+    "did" : ObjectId("5f193d0f4c520000c0006f37")
+}

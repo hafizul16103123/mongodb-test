@@ -1,0 +1,27 @@
+{ 
+    "_id" : NumberInt(1), 
+    "id" : NumberInt(1), 
+    "type" : "Purchase Invoice", 
+    "name" : "Pending", 
+    "sorder" : null, 
+    "created_at" : null, 
+    "updated_at" : null
+}
+{ 
+    "_id" : NumberInt(2), 
+    "id" : NumberInt(2), 
+    "type" : "Purchase Invoice", 
+    "name" : "Accepted", 
+    "sorder" : null, 
+    "created_at" : null, 
+    "updated_at" : null
+}
+{ 
+    "_id" : NumberInt(3), 
+    "id" : NumberInt(3), 
+    "type" : "Purchase Invoice", 
+    "name" : "Declined", 
+    "sorder" : null, 
+    "created_at" : null, 
+    "updated_at" : null
+}

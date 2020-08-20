@@ -1,0 +1,60 @@
+{ 
+    "_id" : ObjectId("5ef0336025480000e0005bc9"), 
+    "gname" : "g8", 
+    "color" : "", 
+    "discount" : "", 
+    "parent" : "", 
+    "pid" : NumberInt(0), 
+    "exempt" : "", 
+    "description" : "", 
+    "separateinvoices" : "", 
+    "sorder" : NumberInt(5)
+}
+{ 
+    "_id" : ObjectId("5ef0336f25480000e0005bca"), 
+    "gname" : "g3", 
+    "color" : "", 
+    "discount" : "", 
+    "parent" : "", 
+    "pid" : NumberInt(0), 
+    "exempt" : "", 
+    "description" : "", 
+    "separateinvoices" : "", 
+    "sorder" : NumberInt(4)
+}
+{ 
+    "_id" : ObjectId("5ef0338f25480000e0005bcb"), 
+    "gname" : "g4", 
+    "color" : "", 
+    "discount" : "", 
+    "parent" : "", 
+    "pid" : NumberInt(0), 
+    "exempt" : "", 
+    "description" : "", 
+    "separateinvoices" : "", 
+    "sorder" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5ef2ab9e46550000d5006077"), 
+    "gname" : "y8", 
+    "color" : "", 
+    "discount" : "", 
+    "parent" : "", 
+    "pid" : NumberInt(0), 
+    "exempt" : "", 
+    "description" : "", 
+    "separateinvoices" : "", 
+    "sorder" : NumberInt(2)
+}
+{ 
+    "_id" : ObjectId("5ef2b39f46550000d500607a"), 
+    "gname" : "b6", 
+    "color" : "", 
+    "discount" : "", 
+    "parent" : "", 
+    "pid" : NumberInt(0), 
+    "exempt" : "", 
+    "description" : "", 
+    "separateinvoices" : "", 
+    "sorder" : NumberInt(3)
+}

@@ -1,0 +1,40 @@
+{ 
+    "_id" : ObjectId("5f01b312f213532304453876"), 
+    "sname" : "Unqualified", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "is_converted" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b31ff213532304453877"), 
+    "sname" : "New", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(1), 
+    "is_converted" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b32af213532304453878"), 
+    "sname" : "Working", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "is_converted" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b333f213532304453879"), 
+    "sname" : "Nurturing", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "is_converted" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b33ff21353230445387a"), 
+    "sname" : "Qualified", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "is_converted" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}

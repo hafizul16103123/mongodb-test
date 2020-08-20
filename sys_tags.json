@@ -1,0 +1,21 @@
+{ 
+    "_id" : NumberInt(1), 
+    "id" : NumberInt(1), 
+    "text" : "software", 
+    "type" : "Contacts"
+}
+{ 
+    "_id" : ObjectId("5f0696ef1a5300001000620a"), 
+    "text" : "25", 
+    "type" : "Expense"
+}
+{ 
+    "_id" : ObjectId("5f17e4b53b44000037003483"), 
+    "text" : "tag", 
+    "type" : "Income"
+}
+{ 
+    "_id" : ObjectId("5f17ff143b440000370034b7"), 
+    "text" : "20", 
+    "type" : "Transfer"
+}

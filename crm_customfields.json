@@ -1,0 +1,15 @@
+{ 
+    "_id" : ObjectId("5f0d4c007028000059002ed0"), 
+    "fieldname" : "yjghjh", 
+    "fieldtype" : "text", 
+    "description" : "hjhj", 
+    "regexpr" : "", 
+    "fieldoptions" : "hjhgj", 
+    "ctype" : "crm", 
+    "relid" : NumberInt(0), 
+    "adminonly" : "", 
+    "required" : "", 
+    "showorder" : "", 
+    "showinvoice" : "Yes", 
+    "sorder" : "0"
+}

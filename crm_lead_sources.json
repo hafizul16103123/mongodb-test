@@ -1,0 +1,77 @@
+{ 
+    "_id" : ObjectId("5f01ae78f21353230445384a"), 
+    "sname" : "Advertisement", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(1), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01ae82f21353230445384b"), 
+    "sname" : "Customer Event", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(1), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01ae8cf21353230445384c"), 
+    "sname" : "Employee Referral", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(1), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01ae95f21353230445384d"), 
+    "sname" : "Google AdWords", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(1), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01aea0f21353230445384e"), 
+    "sname" : "Other", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(1), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01aeaaf21353230445384f"), 
+    "sname" : "Partner", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(1), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01aeb6f213532304453850"), 
+    "sname" : "Purchased List", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(1), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01aec3f213532304453851"), 
+    "sname" : "Trade Show", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(1), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01aecef213532304453852"), 
+    "sname" : "Webinar", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(1), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01aedaf213532304453853"), 
+    "sname" : "Website", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(1), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01aee4f213532304453854"), 
+    "sname" : "Facebook", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(1), 
+    "sorder" : NumberInt(0)
+}

@@ -1,0 +1,78 @@
+{ 
+    "_id" : ObjectId("5ef9cda4e4b2c22c4c557f62"), 
+    "asset" : "", 
+    "name" : "Macbook Pro", 
+    "brand" : "", 
+    "date_purchased" : ISODate("2018-11-05T18:00:00.000+0000"), 
+    "supported_until" : ISODate("2019-11-05T18:00:00.000+0000"), 
+    "price" : NumberInt(1250), 
+    "depreciation" : null, 
+    "serial" : "SL37289274899", 
+    "image" : null, 
+    "status" : null, 
+    "notes" : "", 
+    "category_id" : ObjectId("5ef9cd64e4b2c22c4c557f60"), 
+    "employee_id" : null, 
+    "contact_id" : null, 
+    "location_id" : null, 
+    "deleted_at" : null, 
+    "created_at" : ISODate("2018-11-06T05:12:09.000+0000"), 
+    "updated_at" : ISODate("2018-11-06T05:12:23.000+0000")
+}
+{ 
+    "_id" : ObjectId("5ef9cdbae4b2c22c4c557f63"), 
+    "asset" : "", 
+    "name" : "CloudOnex Business Suite", 
+    "brand" : "", 
+    "date_purchased" : ISODate("2018-11-05T18:00:00.000+0000"), 
+    "supported_until" : ISODate("2019-11-05T18:00:00.000+0000"), 
+    "price" : NumberInt(299), 
+    "depreciation" : null, 
+    "serial" : "ABC-17284-278487-2222", 
+    "image" : null, 
+    "status" : null, 
+    "notes" : "", 
+    "category_id" : ObjectId("5ef9cd7de4b2c22c4c557f61"), 
+    "employee_id" : null, 
+    "contact_id" : null, 
+    "location_id" : null, 
+    "deleted_at" : null, 
+    "created_at" : ISODate("2018-11-06T05:13:02.000+0000"), 
+    "updated_at" : ISODate("2018-11-06T05:13:02.000+0000")
+}
+{ 
+    "_id" : ObjectId("5ef9de337a5500002a003958"), 
+    "name" : "Building", 
+    "asset" : "", 
+    "brand" : "", 
+    "price" : 200.0, 
+    "date_purchased" : "2020-06-29", 
+    "serial" : "", 
+    "supported_until" : "2021-06-29", 
+    "category_id" : ObjectId("5ef9cd64e4b2c22c4c557f60"), 
+    "notes" : "eeeeeee"
+}
+{ 
+    "_id" : ObjectId("5f17f7493b44000037003495"), 
+    "name" : "Building up", 
+    "asset" : "", 
+    "brand" : "", 
+    "price" : 200.0, 
+    "date_purchased" : "2020-06-29", 
+    "serial" : "", 
+    "supported_until" : "2021-06-29", 
+    "category_id" : ObjectId("5ef9cd64e4b2c22c4c557f60"), 
+    "notes" : "eeeeeee"
+}
+{ 
+    "_id" : ObjectId("5f17f8523b44000037003497"), 
+    "name" : " income 3", 
+    "asset" : "", 
+    "brand" : "", 
+    "price" : 0.0, 
+    "date_purchased" : "2020-07-22", 
+    "serial" : "", 
+    "supported_until" : "2021-07-22", 
+    "category_id" : ObjectId("5f17f8ad3b44000037003499"), 
+    "notes" : ""
+}

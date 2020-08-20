@@ -1,0 +1,32 @@
+{ 
+    "_id" : ObjectId("5f02ea5bc57f0000dd00428e"), 
+    "name" : "p1", 
+    "sales_price" : 120.0, 
+    "item_number" : "5f02ea45c57f0000dd00428d", 
+    "description" : "", 
+    "type" : "Product", 
+    "unit" : "piyash", 
+    "weight" : "0.0000", 
+    "inventory" : "22", 
+    "e" : "", 
+    "image" : "", 
+    "cost_price" : 100.0, 
+    "tax_code" : "222"
+}
+{ 
+    "_id" : ObjectId("5f02ea76c57f0000dd004290"), 
+    "name" : "s1", 
+    "sales_price" : 200.0, 
+    "item_number" : "5f02ea68c57f0000dd00428f", 
+    "description" : "", 
+    "type" : "Service", 
+    "unit" : "", 
+    "weight" : "0.0000", 
+    "inventory" : 1.0, 
+    "e" : "", 
+    "image" : "", 
+    "cost_price" : 0.0, 
+    "tax_code" : "444", 
+    " isold_count" : 1.0, 
+    "total_amount" : 1.0
+}

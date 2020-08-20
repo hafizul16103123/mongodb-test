@@ -1,0 +1,13 @@
+{ 
+    "_id" : ObjectId("5f07d16fd4bf130c0c680706"), 
+    "viewed_at" : "2020-07-10", 
+    "lid" : NumberInt(0), 
+    "cid" : NumberInt(0), 
+    "iid" : NumberInt(0), 
+    "company_id" : "dbfjd", 
+    "customer" : "pk", 
+    "ip" : "127.0.0.1", 
+    "browser" : "chorom", 
+    "city" : "dhaka", 
+    "country" : "BD"
+}

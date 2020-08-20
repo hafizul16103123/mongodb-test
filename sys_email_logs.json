@@ -1,0 +1,126 @@
+{ 
+    "_id" : ObjectId("5f047e496c18a72728f9f5df"), 
+    "userid" : NumberInt(0), 
+    "sender" : "", 
+    "email" : "kaxy@gmail.com", 
+    "subject" : "QORNIX password change request", 
+    "message" : "<div style=\"line-height:1.6;color:#222;text-align:left;width:550px;font-size:10pt;margin:0px 10px;font-family:verdana,'droid sans','lucida sans',sans-serif;padding:14px;border:3px solid #d8d8d8;border-top:3px solid #007bc3\"><div style=\"padding:5px;font-size:11pt;font-weight:bold\">   Hi Ahmad Shafiq,</div>\t<div style=\"padding:5px\">\t\tThis is to confirm that we have received a Forgot Password request for your Account Username - ahmadshofiq3@gmail.com <br>From the IP Address - 209.222.97.206\t</div>\t<div style=\"padding:5px\">\t\tClick this linke to reset your password- <br><a target=\"_blank\" style=\"color:#1da9c0;font-weight:bold;padding:3px;text-decoration:none\" href=\"http://qornix.com/fastlane/?ng=login/pwreset-validate/4/token_3220772065\">http://qornix.com/fastlane/?ng=login/pwreset-validate/4/token_3220772065</a>\t</div><div style=\"padding:5px\">Please note: until your password has been changed, your current password will remain valid. The Forgot Password Link will be available for a limited time only.</div><div style=\"padding:0px 5px\">\t<div>Best Regards,<br>QORNIX Team</div></div></div>", 
+    "date" : ISODate("2020-05-30T19:30:54.000+0000"), 
+    "iid" : NumberInt(0), 
+    "rel_type" : null, 
+    "rel_id" : NumberInt(0), 
+    "purchase_id" : null
+}
+{ 
+    "_id" : ObjectId("5f047e5c6c18a72728f9f5e0"), 
+    "userid" : NumberInt(0), 
+    "sender" : "", 
+    "email" : "pkhan@gmail.com", 
+    "subject" : "QORNIX password change request", 
+    "message" : "<div style=\"line-height:1.6;color:#222;text-align:left;width:550px;font-size:10pt;margin:0px 10px;font-family:verdana,'droid sans','lucida sans',sans-serif;padding:14px;border:3px solid #d8d8d8;border-top:3px solid #007bc3\"><div style=\"padding:5px;font-size:11pt;font-weight:bold\">   Hi Ahmad Shafiq,</div>\t<div style=\"padding:5px\">\t\tThis is to confirm that we have received a Forgot Password request for your Account Username - pKhan@gmail.com <br>From the IP Address - 209.222.97.206\t</div>\t<div style=\"padding:5px\">\t\tClick this linke to reset your password- <br><a target=\"_blank\" style=\"color:#1da9c0;font-weight:bold;padding:3px;text-decoration:none\" href=\"http://qornix.com/fastlane/?ng=login/pwreset-validate/4/token_3220772065\">http://qornix.com/fastlane/?ng=login/pwreset-validate/4/token_3220772065</a>\t</div><div style=\"padding:5px\">Please note: until your password has been changed, your current password will remain valid. The Forgot Password Link will be available for a limited time only.</div><div style=\"padding:0px 5px\">\t<div>Best Regards,<br>QORNIX Team</div></div></div>", 
+    "date" : ISODate("2020-05-30T19:30:54.000+0000"), 
+    "iid" : NumberInt(0), 
+    "rel_type" : null, 
+    "rel_id" : NumberInt(0), 
+    "purchase_id" : null
+}
+{ 
+    "_id" : ObjectId("5f17d4363b4400003700347e"), 
+    "userid" : ObjectId("5f00a30d4a3200009f0060f3"), 
+    "sender" : "", 
+    "email" : "", 
+    "subject" : "t1", 
+    "message" : "<p>piyash khan56765,</p>\n<p>Thank you for contacting our support team. A support ticket has now been opened for your request. You will be notified when a response is made by email. Your ticket ID is #ULM-85065745 and a copy of your original message is included below.</p>\n<p>Subject: t1 <br /> Message: <br /> t1 <br /> Priority: Medium <br /> Status: Open</p>\n<p>You can view the ticket at any time at http://localhost/fastlane/?ng=client/tickets/view/ULM-85065745/</p>", 
+    "date" : "2020-07-22 11:52:54", 
+    "iid" : "0"
+}
+{ 
+    "_id" : ObjectId("5f17d4603b44000037003481"), 
+    "userid" : ObjectId("5f00a30d4a3200009f0060f3"), 
+    "sender" : "", 
+    "email" : "", 
+    "subject" : "t2", 
+    "message" : "<p>piyash khan56765,</p>\n<p>Thank you for contacting our support team. A support ticket has now been opened for your request. You will be notified when a response is made by email. Your ticket ID is #AWC-31551590 and a copy of your original message is included below.</p>\n<p>Subject: t2 <br /> Message: <br /> t2 <br /> Priority: Medium <br /> Status: Open</p>\n<p>You can view the ticket at any time at http://localhost/fastlane/?ng=client/tickets/view/AWC-31551590/</p>", 
+    "date" : "2020-07-22 11:53:36", 
+    "iid" : "0"
+}
+{ 
+    "_id" : ObjectId("5f1d063ce90800002a0019f7"), 
+    "userid" : ObjectId("5ef1e626b701000099000396"), 
+    "sender" : "", 
+    "email" : "", 
+    "subject" : "{{business_name}} Invoice Refund Confirmation", 
+    "message" : "<div style=\"line-height: 1.6; color: #222; text-align: left; width: 550px; font-size: 10pt; margin: 0px 10px; font-family: verdana,'droid sans','lucida sans',sans-serif; padding: 14px; border: 3px solid #d8d8d8; border-top: 3px solid #007bc3;\">\n<div style=\"padding: 5px; font-size: 11pt; font-weight: bold;\">Greetings,</div>\n<div style=\"padding: 5px;\">This is confirmation that a refund has been processed for Invoice {{invoice_id}} sent on {{invoice_date}}.</div>\n<div style=\"padding: 10px 5px;\">Invoice URL: <a href=\"http://localhost/fastlane/{{invoice_url}}\" target=\"_blank\" rel=\"noopener noreferrer\">{{invoice_url}}</a><br />Invoice ID: {{invoice_id}}<br />Invoice Amount: {{invoice_amount}}<br />Due Date: {{invoice_due_date}}</div>\n<div style=\"padding: 5px;\"><span style=\"font-size: 13.3333330154419px; line-height: 21.3333320617676px;\">If you have any questions or need assistance, please don't hesitate to contact us.</span></div>\n<div style=\"padding: 0px 5px;\">\n<div>Best Regards,<br />{{business_name}} Team</div>\n</div>\n</div>", 
+    "date" : "2020-07-26 10:27:40", 
+    "iid" : "0"
+}
+{ 
+    "_id" : ObjectId("5f1d0661e90800002a0019f8"), 
+    "userid" : ObjectId("5ef1e626b701000099000396"), 
+    "sender" : "", 
+    "email" : "", 
+    "subject" : "{{business_name}} Quote", 
+    "message" : "<div style=\"line-height: 1.6; color: #222; text-align: left; width: 550px; font-size: 10pt; margin: 0px 10px; font-family: verdana,sans-serif; padding: 14px; border: 3px solid #d8d8d8; border-top: 3px solid #007bc3;\">\n<div style=\"padding: 5px; font-size: 11pt; font-weight: bold;\">Greetings,</div>\n<div style=\"padding: 5px;\">Dear {{contact_name}},&nbsp;<br />Thank you for accepting the Quote.</div>\n<div style=\"padding: 10px 5px;\">Quote: <a href=\"http://localhost/fastlane/{{quote_url}}\" target=\"_blank\" rel=\"noopener noreferrer\">{{quote_url}}</a></div>\n<div style=\"padding: 5px;\"><span style=\"font-size: 13.3333330154419px; line-height: 21.3333320617676px;\">You may view the quote at any time and simply reply to this email with any further questions or requirement.</span></div>\n<div style=\"padding: 0px 5px;\">\n<div>Best Regards,<br />{{business_name}} Team</div>\n</div>\n</div>", 
+    "date" : "2020-07-26 10:28:17", 
+    "iid" : "0"
+}
+{ 
+    "_id" : ObjectId("5f1d067ae90800002a0019f9"), 
+    "userid" : ObjectId("5ef1e626b701000099000396"), 
+    "sender" : "", 
+    "email" : "", 
+    "subject" : "{{quote_subject}}", 
+    "message" : "<div style=\"line-height: 1.6; color: #222; text-align: left; width: 550px; font-size: 10pt; margin: 0px 10px; font-family: verdana,sans-serif; padding: 14px; border: 3px solid #d8d8d8; border-top: 3px solid #007bc3;\">\n<div style=\"padding: 5px; font-size: 11pt; font-weight: bold;\">Greetings,</div>\n<div style=\"padding: 5px;\">Dear {{contact_name}},&nbsp;<br /> Here is the quote you requested for. The quote is valid until {{valid_until}}.</div>\n<div style=\"padding: 10px 5px;\">Quote Unique URL: <a href=\"http://localhost/fastlane/{{quote_url}}\" target=\"_blank\" rel=\"noopener noreferrer\">{{quote_url}}</a></div>\n<div style=\"padding: 5px;\"><span style=\"font-size: 13.3333330154419px; line-height: 21.3333320617676px;\">You may view the quote at any time and simply reply to this email with any further questions or requirement.</span></div>\n<div style=\"padding: 0px 5px;\">\n<div>Best Regards,<br />{{business_name}} Team</div>\n</div>\n</div>", 
+    "date" : "2020-07-26 10:28:42", 
+    "iid" : "0"
+}
+{ 
+    "_id" : ObjectId("5f1d068ce90800002a0019fa"), 
+    "userid" : ObjectId("5ef1e626b701000099000396"), 
+    "sender" : "", 
+    "email" : "", 
+    "subject" : "{{business_name}} Quote", 
+    "message" : "<div style=\"line-height: 1.6; color: #222; text-align: left; width: 550px; font-size: 10pt; margin: 0px 10px; font-family: verdana,sans-serif; padding: 14px; border: 3px solid #d8d8d8; border-top: 3px solid #007bc3;\">\n<div style=\"padding: 5px; font-size: 11pt; font-weight: bold;\">Greetings,</div>\n<div style=\"padding: 5px;\">Dear {{contact_name}},&nbsp;<br />We are sorry to see you go. If you chnage your mind, you can Accept it again from following url. The quote is valid until {{valid_until}}.</div>\n<div style=\"padding: 10px 5px;\">Quote Unique URL: <a href=\"http://stackb.dev/{{quote_url}}\" target=\"_blank\" rel=\"noopener noreferrer\">{{quote_url}}</a></div>\n<div style=\"padding: 5px;\"><span style=\"font-size: 13.3333330154419px; line-height: 21.3333320617676px;\">You may view the quote at any time and simply reply to this email with any further questions or requirement.</span></div>\n<div style=\"padding: 0px 5px;\">\n<div>Best Regards,<br />{{business_name}} Team</div>\n</div>\n</div>", 
+    "date" : "2020-07-26 10:29:00", 
+    "iid" : "0"
+}
+{ 
+    "_id" : ObjectId("5f1d07bde90800002a0019fb"), 
+    "userid" : ObjectId("5ef1e626b701000099000396"), 
+    "sender" : "", 
+    "email" : "", 
+    "subject" : "{{business_name}} new one", 
+    "message" : "<div style=\"line-height: 1.6; color: #222; text-align: left; width: 550px; font-size: 10pt; margin: 0px 10px; font-family: verdana,'droid sans','lucida sans',sans-serif; padding: 14px; border: 3px solid #d8d8d8; border-top: 3px solid #007bc3;\">\n<div style=\"padding: 5px; font-size: 11pt; font-weight: bold;\">Greetings,</div>\n<div style=\"padding: 5px;\">This is confirmation that a refund has been processed for Invoice {{invoice_id}} sent on {{invoice_date}}.</div>\n<div style=\"padding: 10px 5px;\">Invoice URL: <a href=\"http://localhost/fastlane/{{invoice_url}}\" target=\"_blank\" rel=\"noopener noreferrer\">{{invoice_url}}</a><br />Invoice ID: {{invoice_id}}<br />Invoice Amount: {{invoice_amount}}<br />Due Date: {{invoice_due_date}}</div>\n<div style=\"padding: 5px;\"><span style=\"font-size: 13.3333330154419px; line-height: 21.3333320617676px;\">If you have any questions or need assistance, please don't hesitate to contact us.</span></div>\n<div style=\"padding: 0px 5px;\">\n<div>Best Regards,<br />{{business_name}} Team</div>\n</div>\n</div>", 
+    "date" : "2020-07-26 10:34:05", 
+    "iid" : "0"
+}
+{ 
+    "_id" : ObjectId("5f1d0940e90800002a0019fc"), 
+    "userid" : ObjectId("5ef1e626b701000099000396"), 
+    "sender" : "", 
+    "email" : "", 
+    "subject" : "{{business_name}} Quote", 
+    "message" : "<div style=\"line-height: 1.6; color: #222; text-align: left; width: 550px; font-size: 10pt; margin: 0px 10px; font-family: verdana,sans-serif; padding: 14px; border: 3px solid #d8d8d8; border-top: 3px solid #007bc3;\">\n<div style=\"padding: 5px; font-size: 11pt; font-weight: bold;\">Greetings,</div>\n<div style=\"padding: 5px;\">Dear {{contact_name}},&nbsp;<br />We are sorry to see you go. If you chnage your mind, you can Accept it again from following url. The quote is valid until {{valid_until}}.</div>\n<div style=\"padding: 10px 5px;\">Quote Unique URL: <a href=\"http://stackb.dev/{{quote_url}}\" target=\"_blank\" rel=\"noopener noreferrer\">{{quote_url}}</a></div>\n<div style=\"padding: 5px;\"><span style=\"font-size: 13.3333330154419px; line-height: 21.3333320617676px;\">You may view the quote at any time and simply reply to this email with any further questions or requirement.</span></div>\n<div style=\"padding: 0px 5px;\">\n<div>Best Regards,<br />{{business_name}} Team</div>\n</div>\n</div>", 
+    "date" : "2020-07-26 10:40:32", 
+    "iid" : "0"
+}
+{ 
+    "_id" : ObjectId("5f1d0df2e90800002a0019fe"), 
+    "userid" : ObjectId("5f0093cc4a3200009f0060df"), 
+    "sender" : "", 
+    "email" : "", 
+    "subject" : "{{business_name}} password change request", 
+    "message" : "<div style=\"line-height: 1.6; color: #222; text-align: left; width: 550px; font-size: 10pt; margin: 0px 10px; font-family: verdana,'droid sans','lucida sans',sans-serif; padding: 14px; border: 3px solid #d8d8d8; border-top: 3px solid #007bc3;\">\n<div style=\"padding: 5px; font-size: 11pt; font-weight: bold;\">Hi {{name}},</div>\n<div style=\"padding: 5px;\">I am piyash,This is to confirm that we have received a Forgot Password request for your Account Username - {{username}} <br />From the IP Address - {{ip_address}}</div>\n<div style=\"padding: 5px;\">Click this linke to reset your password- <br /><a style=\"color: #1da9c0; font-weight: bold; padding: 3px; text-decoration: none;\" href=\"http://localhost/fastlane/{{password_reset_link}}\" target=\"_blank\" rel=\"noopener noreferrer\">{{password_reset_link}}</a></div>\n<div style=\"padding: 5px;\">Please note: until your password has been changed, your current password will remain valid. The Forgot Password Link will be available for a limited time only.</div>\n<div style=\"padding: 0px 5px;\">\n<div>Best Regards,<br />{{business_name}} Team</div>\n</div>\n</div>", 
+    "date" : "2020-07-26 11:00:34", 
+    "iid" : "0"
+}
+{ 
+    "_id" : ObjectId("5f1d1687e90800002a001a01"), 
+    "userid" : ObjectId("5f0093cc4a3200009f0060df"), 
+    "sender" : "", 
+    "email" : "", 
+    "subject" : "{{business_name}} password change request", 
+    "message" : "<div style=\"line-height: 1.6; color: #222; text-align: left; width: 550px; font-size: 10pt; margin: 0px 10px; font-family: verdana,'droid sans','lucida sans',sans-serif; padding: 14px; border: 3px solid #d8d8d8; border-top: 3px solid #007bc3;\">\n<div style=\"padding: 5px; font-size: 11pt; font-weight: bold;\">Hi {{name}},</div>\n<div style=\"padding: 5px;\">I am piyash,This is to confirm that we have received a Forgot Password request for your Account Username - {{username}} <br />From the IP Address - {{ip_address}}</div>\n<div style=\"padding: 5px;\">Click this linke to reset your password- <br /><a style=\"color: #1da9c0; font-weight: bold; padding: 3px; text-decoration: none;\" href=\"http://localhost/fastlane/{{password_reset_link}}\" target=\"_blank\" rel=\"noopener noreferrer\">{{password_reset_link}}</a></div>\n<div style=\"padding: 5px;\">Please note: until your password has been changed, your current password will remain valid. The Forgot Password Link will be available for a limited time only.</div>\n<div style=\"padding: 0px 5px;\">\n<div>Best Regards,<br />{{business_name}} Team</div>\n</div>\n</div>", 
+    "date" : "2020-07-26 11:37:11", 
+    "iid" : "0"
+}

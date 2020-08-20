@@ -1,0 +1,24 @@
+{ 
+    "_id" : NumberInt(1), 
+    "id" : NumberInt(1), 
+    "cname" : "accounting_snapshot", 
+    "val" : "Active"
+}
+{ 
+    "_id" : NumberInt(2), 
+    "id" : NumberInt(2), 
+    "cname" : "recurring_invoice", 
+    "val" : "Active"
+}
+{ 
+    "_id" : NumberInt(3), 
+    "id" : NumberInt(3), 
+    "cname" : "notify", 
+    "val" : "Inactive"
+}
+{ 
+    "_id" : NumberInt(4), 
+    "id" : NumberInt(4), 
+    "cname" : "notifyemail", 
+    "val" : "demo1@example.com"
+}

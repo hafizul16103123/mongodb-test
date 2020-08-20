@@ -1,0 +1,97 @@
+{ 
+    "_id" : ObjectId("5f009f614a3200009f0060f0"), 
+    "company_name" : "SoftTech IT Group", 
+    "email" : "", 
+    "phone" : "", 
+    "address1" : "Urrata,Dhaka,1230", 
+    "city" : "Dhaka", 
+    "state" : "Dhaka", 
+    "zip" : "1230", 
+    "country" : "Bangladesh"
+}
+{ 
+    "_id" : ObjectId("5f00a30d4a3200009f0060f2"), 
+    "company_name" : "SoftTech IT Group", 
+    "email" : "", 
+    "phone" : "", 
+    "address1" : "Urrata,Dhaka,1230", 
+    "city" : "Dhaka", 
+    "state" : "Dhaka", 
+    "zip" : "1230", 
+    "country" : "Bangladesh"
+}
+{ 
+    "_id" : ObjectId("5f0d7e947028000059002eea"), 
+    "company_name" : "Zaynax", 
+    "code" : "COMP-00005", 
+    "business_number" : "54", 
+    "url" : "http://", 
+    "email" : "n@gmail.com", 
+    "phone" : "0174829193", 
+    "address1" : "ad", 
+    "city" : "dhaka", 
+    "state" : "dhaka", 
+    "zip" : "1230", 
+    "country" : "Bangladesh", 
+    "logo_url" : "bad1e21fc10f35bf6fda112170270471.png"
+}
+{ 
+    "_id" : ObjectId("5f0d817c7028000059002eec"), 
+    "company_name" : "Qornix co", 
+    "code" : "COMP-00005", 
+    "business_number" : "dfd", 
+    "url" : "https://www.qornix.com/", 
+    "email" : "n@gmail.com", 
+    "phone" : "0174829193", 
+    "address1" : "ad", 
+    "city" : "dhaka", 
+    "state" : "dhaka", 
+    "zip" : "1230", 
+    "country" : "Bangladesh", 
+    "logo_url" : "C:\\Users\\Zaynax - 2\\Pictures\\fastlane\\dept.PNG", 
+    "cid" : "5f0d817c7028000059002eec", 
+    "f_type" : "edit"
+}
+{ 
+    "_id" : ObjectId("5f0d82967028000059002eee"), 
+    "company_name" : "fg", 
+    "code" : "COMP-00006", 
+    "business_number" : "fg", 
+    "url" : "http://", 
+    "email" : "n@gmail.com", 
+    "phone" : "0174829193", 
+    "address1" : "ad", 
+    "city" : "dhaka", 
+    "state" : "dhaka", 
+    "zip" : "1230", 
+    "country" : "Bangladesh", 
+    "logo_url" : "ec7e654bc4124e5e1554b952fc2f4507.png", 
+    "cid" : "5f0d82967028000059002eee", 
+    "f_type" : "edit"
+}
+{ 
+    "_id" : ObjectId("5f0d832b7028000059002ef0"), 
+    "company_name" : "fg", 
+    "code" : "COMP-00007", 
+    "business_number" : "fg", 
+    "url" : "http://", 
+    "email" : "n@gmail.com", 
+    "phone" : "0174829193", 
+    "address1" : "ad", 
+    "city" : "dhaka", 
+    "state" : "dhaka", 
+    "zip" : "1230", 
+    "country" : "Bangladesh", 
+    "logo_url" : ""
+}
+{ 
+    "_id" : ObjectId("5f1958924c520000c0006f8c"), 
+    "company_name" : "fg", 
+    "email" : "dfdf@gmail.com", 
+    "phone" : "0174829193", 
+    "address1" : "ad", 
+    "city" : "dhaka", 
+    "state" : "dhaka", 
+    "zip" : "1230", 
+    "country" : "Bangladesh"
+}

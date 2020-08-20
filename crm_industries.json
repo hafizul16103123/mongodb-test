@@ -1,0 +1,224 @@
+{ 
+    "_id" : ObjectId("5f01af6df213532304453855"), 
+    "industry" : "Agriculture", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01afd0f213532304453856"), 
+    "industry" : "Apparel", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01aff0f213532304453857"), 
+    "industry" : "Banking", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b018f213532304453858"), 
+    "industry" : "Biotechnology", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b045f213532304453859"), 
+    "industry" : "Chemicals", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b061f21353230445385a"), 
+    "industry" : "Communications", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b084f21353230445385b"), 
+    "industry" : "Construction", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b09cf21353230445385c"), 
+    "industry" : "Consulting", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b0b1f21353230445385d"), 
+    "industry" : "Education", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b0bff21353230445385e"), 
+    "industry" : "Electronics", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b0e5f21353230445385f"), 
+    "industry" : "Energy", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b0f2f213532304453860"), 
+    "industry" : "Engineering", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b128f213532304453862"), 
+    "industry" : "Entertainment", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b13bf213532304453863"), 
+    "industry" : "Environmental", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b14af213532304453864"), 
+    "industry" : "Finance", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b161f213532304453865"), 
+    "industry" : "Food & Beverage", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b172f213532304453866"), 
+    "industry" : "Government", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b184f213532304453867"), 
+    "industry" : "Healthcare", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b194f213532304453868"), 
+    "industry" : "Hospitality", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b1d8f213532304453869"), 
+    "industry" : "Insurance", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b1e9f21353230445386a"), 
+    "industry" : "Machinery", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b1f9f21353230445386b"), 
+    "industry" : "Manufacturing", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b208f21353230445386c"), 
+    "industry" : "Media", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b217f21353230445386d"), 
+    "industry" : "Not For Profit", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b227f21353230445386e"), 
+    "industry" : "Other", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b24af21353230445386f"), 
+    "industry" : "Recreation", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b25ef213532304453870"), 
+    "industry" : "Retail", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b26df213532304453871"), 
+    "industry" : "Shipping", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b279f213532304453872"), 
+    "industry" : "Technology", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b29af213532304453873"), 
+    "industry" : "Telecommunications", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b2aaf213532304453874"), 
+    "industry" : "Transportation", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f01b2d1f213532304453875"), 
+    "industry" : "Utilities", 
+    "is_active" : NumberInt(1), 
+    "is_default" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}

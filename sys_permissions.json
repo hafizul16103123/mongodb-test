@@ -1,0 +1,360 @@
+{ 
+    "_id" : NumberInt(1), 
+    "id" : NumberInt(1), 
+    "pname" : "Customers", 
+    "shortname" : "customers", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(2), 
+    "id" : NumberInt(2), 
+    "pname" : "Companies", 
+    "shortname" : "companies", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(3), 
+    "id" : NumberInt(3), 
+    "pname" : "Transactions", 
+    "shortname" : "transactions", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(4), 
+    "id" : NumberInt(4), 
+    "pname" : "Sales", 
+    "shortname" : "sales", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(5), 
+    "id" : NumberInt(5), 
+    "pname" : "Bank & Cash", 
+    "shortname" : "bank_n_cash", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(6), 
+    "id" : NumberInt(6), 
+    "pname" : "Products & Services", 
+    "shortname" : "products_n_services", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(7), 
+    "id" : NumberInt(7), 
+    "pname" : "Reports", 
+    "shortname" : "reports", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(8), 
+    "id" : NumberInt(8), 
+    "pname" : "Utilities", 
+    "shortname" : "utilities", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(9), 
+    "id" : NumberInt(9), 
+    "pname" : "Appearance", 
+    "shortname" : "appearance", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(10), 
+    "id" : NumberInt(10), 
+    "pname" : "Plugins", 
+    "shortname" : "plugins", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(11), 
+    "id" : NumberInt(11), 
+    "pname" : "Calendar", 
+    "shortname" : "calendar", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(12), 
+    "id" : NumberInt(12), 
+    "pname" : "Leads", 
+    "shortname" : "leads", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(13), 
+    "id" : NumberInt(13), 
+    "pname" : "Tasks", 
+    "shortname" : "tasks", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(14), 
+    "id" : NumberInt(14), 
+    "pname" : "Contracts", 
+    "shortname" : "contracts", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(15), 
+    "id" : NumberInt(15), 
+    "pname" : "Orders", 
+    "shortname" : "orders", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(16), 
+    "id" : NumberInt(16), 
+    "pname" : "Settings", 
+    "shortname" : "settings", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(17), 
+    "id" : NumberInt(17), 
+    "pname" : "Documents", 
+    "shortname" : "documents", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(18), 
+    "id" : NumberInt(18), 
+    "pname" : "Purchase", 
+    "shortname" : "purchase", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(19), 
+    "id" : NumberInt(19), 
+    "pname" : "Suppliers", 
+    "shortname" : "suppliers", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(20), 
+    "id" : NumberInt(20), 
+    "pname" : "SMS", 
+    "shortname" : "sms", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(21), 
+    "id" : NumberInt(21), 
+    "pname" : "Support", 
+    "shortname" : "support", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(22), 
+    "id" : NumberInt(22), 
+    "pname" : "Knowledgebase", 
+    "shortname" : "kb", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(23), 
+    "id" : NumberInt(23), 
+    "pname" : "Password Manager", 
+    "shortname" : "password_manager", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(24), 
+    "id" : NumberInt(24), 
+    "pname" : "HRM", 
+    "shortname" : "hr", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0bfce8732ff4172c1be7ae"), 
+    "pname" : "Customers", 
+    "shortname" : "customers", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0bfcf0732ff4172c1be7af"), 
+    "pname" : "Companies", 
+    "shortname" : "companies", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0bfcf9732ff4172c1be7b0"), 
+    "pname" : "Transactions", 
+    "shortname" : "transactions", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0bfd02732ff4172c1be7b1"), 
+    "pname" : "Sales", 
+    "shortname" : "sales", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0bfd0b732ff4172c1be7b2"), 
+    "pname" : "Bank & Cash", 
+    "shortname" : "bank_n_cash", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0bfd15732ff4172c1be7b3"), 
+    "pname" : "Products & Services", 
+    "shortname" : "products_n_services", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0bfd1f732ff4172c1be7b4"), 
+    "pname" : "Reports", 
+    "shortname" : "reports", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0bfd2c732ff4172c1be7b5"), 
+    "pname" : "Utilities", 
+    "shortname" : "utilities", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0bfd36732ff4172c1be7b6"), 
+    "pname" : "Appearance", 
+    "shortname" : "appearance", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0bfd40732ff4172c1be7b7"), 
+    "pname" : "Plugins", 
+    "shortname" : "plugins", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0bfd49732ff4172c1be7b8"), 
+    "pname" : "Calendar", 
+    "shortname" : "calendar", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0bfd53732ff4172c1be7b9"), 
+    "pname" : "Leads", 
+    "shortname" : "leads", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0bfd5d732ff4172c1be7ba"), 
+    "pname" : "Tasks", 
+    "shortname" : "tasks", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0bfd67732ff4172c1be7bb"), 
+    "pname" : "Contracts", 
+    "shortname" : "contracts", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0bfd6f732ff4172c1be7bc"), 
+    "pname" : "Orders", 
+    "shortname" : "orders", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0bfd78732ff4172c1be7bd"), 
+    "pname" : "Settings", 
+    "shortname" : "settings", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0bfd82732ff4172c1be7be"), 
+    "pname" : "Documents", 
+    "shortname" : "documents", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0bfd8a732ff4172c1be7bf"), 
+    "pname" : "Purchase", 
+    "shortname" : "purchase", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0bfd94732ff4172c1be7c0"), 
+    "pname" : "Suppliers", 
+    "shortname" : "suppliers", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0bfda2732ff4172c1be7c1"), 
+    "pname" : "SMS", 
+    "shortname" : "sms", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0bfe74732ff4172c1be7c2"), 
+    "pname" : "Support", 
+    "shortname" : "support", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0bfe8e732ff4172c1be7c3"), 
+    "pname" : "Knowledgebase", 
+    "shortname" : "knowledgebase", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0bfec2732ff4172c1be7c4"), 
+    "pname" : "Password Manager", 
+    "shortname" : "password_anager", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0bfeec732ff4172c1be7c5"), 
+    "pname" : "HRM", 
+    "shortname" : "hr", 
+    "available" : NumberInt(0), 
+    "core" : NumberInt(1)
+}

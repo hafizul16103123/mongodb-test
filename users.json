@@ -1,0 +1,25 @@
+{ 
+    "_id" : ObjectId("5eeefb7c10be2607bfee5ead"), 
+    "name" : "piyash", 
+    "role" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5ef6af6a7302c41618f60a91"), 
+    "name" : "piyash", 
+    "role" : NumberInt(2)
+}
+{ 
+    "_id" : ObjectId("5ef6af727302c41618f60a92"), 
+    "name" : "piyash", 
+    "role" : "3"
+}
+{ 
+    "_id" : ObjectId("5ef6af7b7302c41618f60a93"), 
+    "name" : "piyash", 
+    "role" : NumberInt(4)
+}
+{ 
+    "_id" : ObjectId("5ef6af857302c41618f60a94"), 
+    "name" : "khan", 
+    "role" : NumberInt(5)
+}

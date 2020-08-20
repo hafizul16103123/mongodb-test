@@ -1,0 +1,30 @@
+{ 
+    "_id" : ObjectId("5ef9cd64e4b2c22c4c557f60"), 
+    "parent_id" : NumberInt(0), 
+    "name" : "Electronics", 
+    "api_name" : "", 
+    "plural" : "", 
+    "slug" : "", 
+    "prefix" : "", 
+    "sl" : "", 
+    "is_active" : true, 
+    "is_default" : false, 
+    "sort_order" : NumberInt(1), 
+    "created_at" : ISODate("2018-11-06T05:11:40.000+0000"), 
+    "updated_at" : ISODate("2018-11-06T05:11:40.000+0000")
+}
+{ 
+    "_id" : ObjectId("5ef9cd7de4b2c22c4c557f61"), 
+    "parent_id" : NumberInt(0), 
+    "name" : "Softwares", 
+    "api_name" : "", 
+    "plural" : "", 
+    "slug" : "", 
+    "prefix" : "", 
+    "sl" : "", 
+    "is_active" : true, 
+    "is_default" : false, 
+    "sort_order" : NumberInt(1), 
+    "created_at" : ISODate("2018-11-06T05:11:46.000+0000"), 
+    "updated_at" : ISODate("2018-11-06T05:11:46.000+0000")
+}

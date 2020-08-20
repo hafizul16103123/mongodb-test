@@ -1,0 +1,48 @@
+{ 
+    "_id" : ObjectId("5f03efd46c18a72728f9f5da"), 
+    "name" : "piyash", 
+    "job_title" : "fvsjfd", 
+    "email" : "fvsjfd@gmail.com", 
+    "pay_frequency" : "yrg", 
+    "amount" : NumberInt(222), 
+    "date_hired" : "1klxfjbg", 
+    "address_line_1" : "fgsdf", 
+    "city" : "sdksd", 
+    "state" : "sdksd", 
+    "zip" : "sdksd", 
+    "phone" : "212111"
+}
+{ 
+    "_id" : ObjectId("5f05e17281d20231a4f42a10"), 
+    "name" : "piyash1", 
+    "job_title" : "fvsjfd", 
+    "email" : "fvsjfd@gmail.com", 
+    "pay_frequency" : "yrg", 
+    "amount" : NumberInt(222), 
+    "date_hired" : "1klxfjbg", 
+    "address_line_1" : "fgsdf", 
+    "city" : "sdksd", 
+    "state" : "sdksd", 
+    "zip" : "sdksd", 
+    "phone" : "212111"
+}
+{ 
+    "_id" : ObjectId("5f0d5ec57028000059002ed5"), 
+    "name" : "n", 
+    "job_title" : "Web", 
+    "pay_frequency" : "Monthly", 
+    "currency" : "NEW", 
+    "amount" : 12.0, 
+    "address_line_1" : "ad", 
+    "email" : "n@gmail.com", 
+    "phone" : "0174829193", 
+    "city" : "dhaka", 
+    "state" : "dhaka", 
+    "zip" : "1230", 
+    "country" : "Bangladesh", 
+    "summary" : "fd", 
+    "facebook" : "dfd", 
+    "linkedin" : "dfd", 
+    "twitter" : "df", 
+    "date_hired" : "2020-07-14"
+}

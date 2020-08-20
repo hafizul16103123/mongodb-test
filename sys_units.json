@@ -1,0 +1,24 @@
+{ 
+    "_id" : ObjectId("5f015a7af213532304453843"), 
+    "type" : "Weight", 
+    "name" : "ok", 
+    "reference" : null, 
+    "conversion_factor" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f015b3cf213532304453844"), 
+    "type" : "type1", 
+    "name" : "piyash", 
+    "reference" : null, 
+    "conversion_factor" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0d332e7028000059002eb8"), 
+    "name" : "tttt", 
+    "type" : "Piece", 
+    "reference" : null, 
+    "conversion_factor" : NumberInt(0), 
+    "sorder" : NumberInt(0)
+}

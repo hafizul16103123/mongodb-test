@@ -1,0 +1,10 @@
+{ 
+    "_id" : ObjectId("5f034dced112a21edcaa8621"), 
+    "method" : "mailgun", 
+    "host" : "3423", 
+    "username" : "err", 
+    "password" : "erer", 
+    "apikey" : "", 
+    "port" : "343", 
+    "secure" : "tls"
+}

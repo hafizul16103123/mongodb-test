@@ -1,0 +1,10 @@
+{ 
+    "_id" : ObjectId("5f07e5c1d4bf130c0c680707"), 
+    "date" : ISODate("2015-03-13T18:00:00.000+0000"), 
+    "logs" : "2015-03-14 20:17:15 : Schedule Jobs Started....... <br>2015-03-14 20:17:15 : Creating Accounting Snapshot <br>2015-03-14 20:17:15 : Accounting Snapshot created! <br>=============== Accounting Snaphsot ==================== <br>Accounting Snaphsot - Date: 2015-03-13<br>Total Income: Tk. 0.00<br>Total Expense: Tk. 0.00<br>================================================== <br>2015-03-14 20:17:15 : Creating Recurring Invoice <br>2015-03-14 20:17:15 : 1 Invoice created! <br>================================================== <br>"
+}
+{ 
+    "_id" : ObjectId("5f07e5ced4bf130c0c680708"), 
+    "date" : ISODate("2018-07-23T18:00:00.000+0000"), 
+    "logs" : "================================================== <br>2018-07-24 13:27:38 : Schedule Jobs Started....... <br>2018-07-24 13:27:38 : Creating Accounting Snapshot <br>2018-07-24 13:27:38 : Accounting Snapshot created! <br>=============== Accounting Snaphsot ==================== <br>Accounting Snaphsot - Date: 2018-07-23<br>Total Income: $ 13,800.00<br>Total Expense: $ 0.00<br>================================================== <br>2018-07-24 13:27:38 : Creating Recurring Invoice <br>2018-07-24 13:27:38 : 0 Invoice created! <br>================================================== <br>"
+}

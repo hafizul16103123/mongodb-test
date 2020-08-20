@@ -1,0 +1,48 @@
+{ 
+    "_id" : ObjectId("5f095a2646735b25bc6bb5dd"), 
+    "type" : "staff_departments", 
+    "source_id" : NumberInt(3), 
+    "target_id" : NumberInt(1), 
+    "created_at" : ISODate("2020-05-21T22:51:09.000+0000"), 
+    "updated_at" : ISODate("2020-05-21T22:51:09.000+0000")
+}
+{ 
+    "_id" : ObjectId("5f095a3046735b25bc6bb5de"), 
+    "type" : "staff_departments", 
+    "source_id" : NumberInt(7), 
+    "target_id" : NumberInt(1), 
+    "created_at" : ISODate("2020-06-09T02:24:02.000+0000"), 
+    "updated_at" : ISODate("2020-06-09T02:24:02.000+0000")
+}
+{ 
+    "_id" : ObjectId("5f095a5446735b25bc6bb5df"), 
+    "type" : "staff_departments", 
+    "source_id" : ObjectId("5f01bb69f21353230445387c"), 
+    "target_id" : ObjectId("5f0532b581d20231a4f42a0e"), 
+    "created_at" : ISODate("2020-06-09T02:24:02.000+0000"), 
+    "updated_at" : ISODate("2020-06-09T02:24:02.000+0000")
+}
+{ 
+    "_id" : ObjectId("5f095a6046735b25bc6bb5e0"), 
+    "type" : "staff_departments", 
+    "source_id" : NumberInt(7), 
+    "target_id" : NumberInt(3), 
+    "created_at" : ISODate("2020-06-09T02:24:02.000+0000"), 
+    "updated_at" : ISODate("2020-06-09T02:24:02.000+0000")
+}
+{ 
+    "_id" : ObjectId("5f0be580732ff4172c1be789"), 
+    "type" : "staff_departments", 
+    "source_id" : ObjectId("5f01bb69f21353230445387c"), 
+    "target_id" : ObjectId("5f0532c081d20231a4f42a0f"), 
+    "created_at" : ISODate("2020-06-09T02:24:02.000+0000"), 
+    "updated_at" : ISODate("2020-06-09T02:24:02.000+0000")
+}
+{ 
+    "_id" : ObjectId("5f0be5f1732ff4172c1be78a"), 
+    "type" : "staff_departments", 
+    "source_id" : ObjectId("5ef2b0333a3a5f1b10c223ad"), 
+    "target_id" : ObjectId("5f05d68f150e000032002388"), 
+    "created_at" : ISODate("2020-06-09T02:24:02.000+0000"), 
+    "updated_at" : ISODate("2020-06-09T02:24:02.000+0000")
+}

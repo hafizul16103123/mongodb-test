@@ -1,0 +1,1082 @@
+{ 
+    "_id" : NumberInt(1), 
+    "id" : NumberInt(1), 
+    "setting" : "CompanyName", 
+    "value" : "QORNIX co"
+}
+{ 
+    "_id" : NumberInt(29), 
+    "id" : NumberInt(29), 
+    "setting" : "theme", 
+    "value" : "default"
+}
+{ 
+    "_id" : NumberInt(37), 
+    "id" : NumberInt(37), 
+    "setting" : "currency_code", 
+    "value" : "$"
+}
+{ 
+    "_id" : NumberInt(56), 
+    "id" : NumberInt(56), 
+    "setting" : "language", 
+    "value" : "en"
+}
+{ 
+    "_id" : NumberInt(57), 
+    "id" : NumberInt(57), 
+    "setting" : "show-logo", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(58), 
+    "id" : NumberInt(58), 
+    "setting" : "nstyle", 
+    "value" : "light_blue"
+}
+{ 
+    "_id" : NumberInt(63), 
+    "id" : NumberInt(63), 
+    "setting" : "dec_point", 
+    "value" : "."
+}
+{ 
+    "_id" : NumberInt(64), 
+    "id" : NumberInt(64), 
+    "setting" : "thousands_sep", 
+    "value" : ","
+}
+{ 
+    "_id" : NumberInt(65), 
+    "id" : NumberInt(65), 
+    "setting" : "timezone", 
+    "value" : "Asia/Dhaka"
+}
+{ 
+    "_id" : NumberInt(66), 
+    "id" : NumberInt(66), 
+    "setting" : "country", 
+    "value" : "Cambodia"
+}
+{ 
+    "_id" : NumberInt(67), 
+    "id" : NumberInt(67), 
+    "setting" : "country_code", 
+    "value" : "US"
+}
+{ 
+    "_id" : NumberInt(68), 
+    "id" : NumberInt(68), 
+    "setting" : "df", 
+    "value" : "d/m/Y"
+}
+{ 
+    "_id" : NumberInt(69), 
+    "id" : NumberInt(69), 
+    "setting" : "caddress", 
+    "value" : "<p>QORNIX <br>Dhaka<br>Bangladesh<br><br></p>"
+}
+{ 
+    "_id" : NumberInt(70), 
+    "id" : NumberInt(70), 
+    "setting" : "account_search", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(71), 
+    "id" : NumberInt(71), 
+    "setting" : "redirect_url", 
+    "value" : "dashboard"
+}
+{ 
+    "_id" : NumberInt(72), 
+    "id" : NumberInt(72), 
+    "setting" : "rtl", 
+    "value" : "0"
+}
+{ 
+    "_id" : NumberInt(73), 
+    "id" : NumberInt(73), 
+    "setting" : "ckey", 
+    "value" : "4997185483"
+}
+{ 
+    "_id" : NumberInt(74), 
+    "id" : NumberInt(74), 
+    "setting" : "networth_goal", 
+    "value" : "20000000"
+}
+{ 
+    "_id" : NumberInt(75), 
+    "id" : NumberInt(75), 
+    "setting" : "sysEmail", 
+    "value" : "demo7@domain.com"
+}
+{ 
+    "_id" : NumberInt(76), 
+    "id" : NumberInt(76), 
+    "setting" : "url_rewrite", 
+    "value" : "0"
+}
+{ 
+    "_id" : NumberInt(77), 
+    "id" : NumberInt(77), 
+    "setting" : "build", 
+    "value" : "402"
+}
+{ 
+    "_id" : NumberInt(78), 
+    "id" : NumberInt(78), 
+    "setting" : "animate", 
+    "value" : "0"
+}
+{ 
+    "_id" : NumberInt(79), 
+    "id" : NumberInt(79), 
+    "setting" : "pdf_font", 
+    "value" : "default"
+}
+{ 
+    "_id" : NumberInt(80), 
+    "id" : NumberInt(80), 
+    "setting" : "accounting", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(81), 
+    "id" : NumberInt(81), 
+    "setting" : "invoicing", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(82), 
+    "id" : NumberInt(82), 
+    "setting" : "quotes", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(83), 
+    "id" : NumberInt(83), 
+    "setting" : "client_dashboard", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(84), 
+    "id" : NumberInt(84), 
+    "setting" : "contact_set_view_mode", 
+    "value" : "tbl"
+}
+{ 
+    "_id" : NumberInt(85), 
+    "id" : NumberInt(85), 
+    "setting" : "invoice_terms", 
+    "value" : ""
+}
+{ 
+    "_id" : NumberInt(86), 
+    "id" : NumberInt(86), 
+    "setting" : "console_notify_invoice_created", 
+    "value" : "0"
+}
+{ 
+    "_id" : NumberInt(87), 
+    "id" : NumberInt(87), 
+    "setting" : "i_driver", 
+    "value" : "v2"
+}
+{ 
+    "_id" : NumberInt(88), 
+    "id" : NumberInt(88), 
+    "setting" : "purchase_key", 
+    "value" : "B5VE-SNP4-KB15-1179-7948"
+}
+{ 
+    "_id" : NumberInt(89), 
+    "id" : NumberInt(89), 
+    "setting" : "c_cache", 
+    "value" : ""
+}
+{ 
+    "_id" : NumberInt(90), 
+    "id" : NumberInt(90), 
+    "setting" : "mininav", 
+    "value" : "0"
+}
+{ 
+    "_id" : NumberInt(91), 
+    "id" : NumberInt(91), 
+    "setting" : "hide_footer", 
+    "value" : "0"
+}
+{ 
+    "_id" : NumberInt(92), 
+    "id" : NumberInt(92), 
+    "setting" : "design", 
+    "value" : "default"
+}
+{ 
+    "_id" : NumberInt(93), 
+    "id" : NumberInt(93), 
+    "setting" : "default_landing_page", 
+    "value" : "login"
+}
+{ 
+    "_id" : NumberInt(94), 
+    "id" : NumberInt(94), 
+    "setting" : "recaptcha", 
+    "value" : "0"
+}
+{ 
+    "_id" : NumberInt(95), 
+    "id" : NumberInt(95), 
+    "setting" : "recaptcha_sitekey", 
+    "value" : "hj"
+}
+{ 
+    "_id" : NumberInt(96), 
+    "id" : NumberInt(96), 
+    "setting" : "recaptcha_secretkey", 
+    "value" : "hj"
+}
+{ 
+    "_id" : NumberInt(97), 
+    "id" : NumberInt(97), 
+    "setting" : "home_currency", 
+    "value" : "NEW"
+}
+{ 
+    "_id" : NumberInt(98), 
+    "id" : NumberInt(98), 
+    "setting" : "currency_decimal_digits", 
+    "value" : "true"
+}
+{ 
+    "_id" : NumberInt(99), 
+    "id" : NumberInt(99), 
+    "setting" : "currency_symbol_position", 
+    "value" : "p"
+}
+{ 
+    "_id" : NumberInt(100), 
+    "id" : NumberInt(100), 
+    "setting" : "thousand_separator_placement", 
+    "value" : "3"
+}
+{ 
+    "_id" : NumberInt(101), 
+    "id" : NumberInt(101), 
+    "setting" : "dashboard", 
+    "value" : "canvas"
+}
+{ 
+    "_id" : NumberInt(102), 
+    "id" : NumberInt(102), 
+    "setting" : "header_scripts", 
+    "value" : "Welcome to Qornix co"
+}
+{ 
+    "_id" : NumberInt(103), 
+    "id" : NumberInt(103), 
+    "setting" : "footer_scripts", 
+    "value" : "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\r\n<div class=\"elfsight-app-75d5d257-f4bc-4490-bca2-cd3edcf337fe\"></div>"
+}
+{ 
+    "_id" : NumberInt(104), 
+    "id" : NumberInt(104), 
+    "setting" : "ib_key", 
+    "value" : "vLBLfhA6DNi1R2MFHO8IvFWr4Cn9665eHUF+L/sqAKM="
+}
+{ 
+    "_id" : NumberInt(105), 
+    "id" : NumberInt(105), 
+    "setting" : "ib_s", 
+    "value" : "PNhjeZ0sOFF3JNfzT2mLxvNNKPeh6ltqpE+G5LVSDSvgp/z79Sco7W4tJEoXYIl8"
+}
+{ 
+    "_id" : NumberInt(106), 
+    "id" : NumberInt(106), 
+    "setting" : "ib_u_t", 
+    "value" : "1512841700"
+}
+{ 
+    "_id" : NumberInt(107), 
+    "id" : NumberInt(107), 
+    "setting" : "ib_u_a", 
+    "value" : "0"
+}
+{ 
+    "_id" : NumberInt(108), 
+    "id" : NumberInt(108), 
+    "setting" : "momentLocale", 
+    "value" : "en"
+}
+{ 
+    "_id" : NumberInt(109), 
+    "id" : NumberInt(109), 
+    "setting" : "contentAnimation", 
+    "value" : ""
+}
+{ 
+    "_id" : NumberInt(110), 
+    "id" : NumberInt(110), 
+    "setting" : "calendar", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(111), 
+    "id" : NumberInt(111), 
+    "setting" : "leads", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(112), 
+    "id" : NumberInt(112), 
+    "setting" : "tasks", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(113), 
+    "id" : NumberInt(113), 
+    "setting" : "orders", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(114), 
+    "id" : NumberInt(114), 
+    "setting" : "show_quantity_as", 
+    "value" : ""
+}
+{ 
+    "_id" : NumberInt(115), 
+    "id" : NumberInt(115), 
+    "setting" : "gmap_api_key", 
+    "value" : ""
+}
+{ 
+    "_id" : NumberInt(116), 
+    "id" : NumberInt(116), 
+    "setting" : "license_key", 
+    "value" : "5FEB-2E39-D4DF-24C0-5DF8-2090-AC98-5962"
+}
+{ 
+    "_id" : NumberInt(117), 
+    "id" : NumberInt(117), 
+    "setting" : "local_key", 
+    "value" : ""
+}
+{ 
+    "_id" : NumberInt(118), 
+    "id" : NumberInt(118), 
+    "setting" : "ib_installed_at", 
+    "value" : "1485170108"
+}
+{ 
+    "_id" : NumberInt(119), 
+    "id" : NumberInt(119), 
+    "setting" : "maxmind_installed", 
+    "value" : "0"
+}
+{ 
+    "_id" : NumberInt(120), 
+    "id" : NumberInt(120), 
+    "setting" : "maxmind_db_version", 
+    "value" : ""
+}
+{ 
+    "_id" : NumberInt(121), 
+    "id" : NumberInt(121), 
+    "setting" : "add_fund", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(122), 
+    "id" : NumberInt(122), 
+    "setting" : "add_fund_minimum_deposit", 
+    "value" : "100"
+}
+{ 
+    "_id" : NumberInt(123), 
+    "id" : NumberInt(123), 
+    "setting" : "add_fund_maximum_deposit", 
+    "value" : "2500"
+}
+{ 
+    "_id" : NumberInt(124), 
+    "id" : NumberInt(124), 
+    "setting" : "add_fund_maximum_balance", 
+    "value" : "25000"
+}
+{ 
+    "_id" : NumberInt(125), 
+    "id" : NumberInt(125), 
+    "setting" : "add_fund_require_active_order", 
+    "value" : "0"
+}
+{ 
+    "_id" : NumberInt(126), 
+    "id" : NumberInt(126), 
+    "setting" : "industry", 
+    "value" : "default"
+}
+{ 
+    "_id" : NumberInt(127), 
+    "id" : NumberInt(127), 
+    "setting" : "sales_target", 
+    "value" : "10000"
+}
+{ 
+    "_id" : NumberInt(128), 
+    "id" : NumberInt(128), 
+    "setting" : "inventory", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(129), 
+    "id" : NumberInt(129), 
+    "setting" : "secondary_currency", 
+    "value" : ""
+}
+{ 
+    "_id" : NumberInt(130), 
+    "id" : NumberInt(130), 
+    "setting" : "customer_custom_username", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(131), 
+    "id" : NumberInt(131), 
+    "setting" : "documents", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(132), 
+    "id" : NumberInt(132), 
+    "setting" : "projects", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(133), 
+    "id" : NumberInt(133), 
+    "setting" : "purchase", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(134), 
+    "id" : NumberInt(134), 
+    "setting" : "suppliers", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(135), 
+    "id" : NumberInt(135), 
+    "setting" : "support", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(136), 
+    "id" : NumberInt(136), 
+    "setting" : "hrm", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(137), 
+    "id" : NumberInt(137), 
+    "setting" : "companies", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(138), 
+    "id" : NumberInt(138), 
+    "setting" : "plugins", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(139), 
+    "id" : NumberInt(139), 
+    "setting" : "country_flag_code", 
+    "value" : "kh"
+}
+{ 
+    "_id" : NumberInt(140), 
+    "id" : NumberInt(140), 
+    "setting" : "graph_primary_color", 
+    "value" : "2196f3"
+}
+{ 
+    "_id" : NumberInt(141), 
+    "id" : NumberInt(141), 
+    "setting" : "graph_secondary_color", 
+    "value" : "eb3c00"
+}
+{ 
+    "_id" : NumberInt(142), 
+    "id" : NumberInt(142), 
+    "setting" : "expense_type_1", 
+    "value" : "Personal"
+}
+{ 
+    "_id" : NumberInt(143), 
+    "id" : NumberInt(143), 
+    "setting" : "expense_type_2", 
+    "value" : "Business"
+}
+{ 
+    "_id" : NumberInt(144), 
+    "id" : NumberInt(144), 
+    "setting" : "edition", 
+    "value" : "default"
+}
+{ 
+    "_id" : NumberInt(147), 
+    "id" : NumberInt(147), 
+    "setting" : "assets", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(148), 
+    "id" : NumberInt(148), 
+    "setting" : "kb", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(149), 
+    "id" : NumberInt(149), 
+    "setting" : "business_id_1", 
+    "value" : ""
+}
+{ 
+    "_id" : NumberInt(150), 
+    "id" : NumberInt(150), 
+    "setting" : "business_id_2", 
+    "value" : ""
+}
+{ 
+    "_id" : NumberInt(151), 
+    "id" : NumberInt(151), 
+    "setting" : "logo_default", 
+    "value" : "logo_8742341575.png"
+}
+{ 
+    "_id" : NumberInt(152), 
+    "id" : NumberInt(152), 
+    "setting" : "logo_inverse", 
+    "value" : "logo_inverse_6454622477.png"
+}
+{ 
+    "_id" : NumberInt(153), 
+    "id" : NumberInt(153), 
+    "setting" : "add_fund_client", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(154), 
+    "id" : NumberInt(154), 
+    "setting" : "order_method", 
+    "value" : "create_invoice_later"
+}
+{ 
+    "_id" : NumberInt(155), 
+    "id" : NumberInt(155), 
+    "setting" : "purchase_code", 
+    "value" : ""
+}
+{ 
+    "_id" : NumberInt(156), 
+    "id" : NumberInt(156), 
+    "setting" : "invoice_receipt_number", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(157), 
+    "id" : NumberInt(157), 
+    "setting" : "allow_customer_registration", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(158), 
+    "id" : NumberInt(158), 
+    "setting" : "fax_field", 
+    "value" : "0"
+}
+{ 
+    "_id" : NumberInt(159), 
+    "id" : NumberInt(159), 
+    "setting" : "show_business_number", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(160), 
+    "id" : NumberInt(160), 
+    "setting" : "label_business_number", 
+    "value" : "Business Number"
+}
+{ 
+    "_id" : NumberInt(161), 
+    "id" : NumberInt(161), 
+    "setting" : "sms", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(162), 
+    "id" : NumberInt(162), 
+    "setting" : "sms_request_method", 
+    "value" : "POST"
+}
+{ 
+    "_id" : NumberInt(163), 
+    "id" : NumberInt(163), 
+    "setting" : "sms_auth_header", 
+    "value" : ""
+}
+{ 
+    "_id" : NumberInt(164), 
+    "id" : NumberInt(164), 
+    "setting" : "sms_req_url", 
+    "value" : "http://localhost/fastlane/?ng=sms/init/settings"
+}
+{ 
+    "_id" : NumberInt(165), 
+    "id" : NumberInt(165), 
+    "setting" : "sms_notify_admin_new_deposit", 
+    "value" : "0"
+}
+{ 
+    "_id" : NumberInt(166), 
+    "id" : NumberInt(166), 
+    "setting" : "sms_notify_customer_signed_up", 
+    "value" : "0"
+}
+{ 
+    "_id" : NumberInt(167), 
+    "id" : NumberInt(167), 
+    "setting" : "sms_notify_customer_invoice_created", 
+    "value" : "0"
+}
+{ 
+    "_id" : NumberInt(168), 
+    "id" : NumberInt(168), 
+    "setting" : "sms_notify_customer_invoice_paid", 
+    "value" : "0"
+}
+{ 
+    "_id" : NumberInt(169), 
+    "id" : NumberInt(169), 
+    "setting" : "sms_notify_customer_payment_received", 
+    "value" : "0"
+}
+{ 
+    "_id" : NumberInt(170), 
+    "id" : NumberInt(170), 
+    "setting" : "sms_api_handler", 
+    "value" : "Routesms"
+}
+{ 
+    "_id" : NumberInt(171), 
+    "id" : NumberInt(171), 
+    "setting" : "sms_auth_username", 
+    "value" : "pk"
+}
+{ 
+    "_id" : NumberInt(172), 
+    "id" : NumberInt(172), 
+    "setting" : "sms_auth_password", 
+    "value" : "pk"
+}
+{ 
+    "_id" : NumberInt(173), 
+    "id" : NumberInt(173), 
+    "setting" : "sms_sender_name", 
+    "value" : "CLX"
+}
+{ 
+    "_id" : NumberInt(175), 
+    "id" : NumberInt(175), 
+    "setting" : "sms_http_params", 
+    "value" : ""
+}
+{ 
+    "_id" : NumberInt(176), 
+    "id" : NumberInt(176), 
+    "setting" : "purchase_invoice_payment_status", 
+    "value" : "0"
+}
+{ 
+    "_id" : NumberInt(177), 
+    "id" : NumberInt(177), 
+    "setting" : "quote_confirmation_email", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(178), 
+    "id" : NumberInt(178), 
+    "setting" : "client_drive", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(179), 
+    "id" : NumberInt(179), 
+    "setting" : "s_version", 
+    "value" : "7"
+}
+{ 
+    "_id" : NumberInt(180), 
+    "id" : NumberInt(180), 
+    "setting" : "latest_file", 
+    "value" : "4618152936941418.zip"
+}
+{ 
+    "_id" : NumberInt(181), 
+    "id" : NumberInt(181), 
+    "setting" : "invoice_show_watermark", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(183), 
+    "id" : NumberInt(183), 
+    "setting" : "show_country_flag", 
+    "value" : "0"
+}
+{ 
+    "_id" : NumberInt(184), 
+    "id" : NumberInt(184), 
+    "setting" : "drive", 
+    "value" : "0"
+}
+{ 
+    "_id" : NumberInt(185), 
+    "id" : NumberInt(185), 
+    "setting" : "tax_system", 
+    "value" : "default"
+}
+{ 
+    "_id" : NumberInt(186), 
+    "id" : NumberInt(186), 
+    "setting" : "pos", 
+    "value" : "0"
+}
+{ 
+    "_id" : NumberInt(187), 
+    "id" : NumberInt(187), 
+    "setting" : "password_manager", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(188), 
+    "id" : NumberInt(188), 
+    "setting" : "update_manager", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(189), 
+    "id" : NumberInt(189), 
+    "setting" : "app_credentials", 
+    "value" : "0"
+}
+{ 
+    "_id" : NumberInt(190), 
+    "id" : NumberInt(190), 
+    "setting" : "business_location", 
+    "value" : "Dhaka3"
+}
+{ 
+    "_id" : NumberInt(191), 
+    "id" : NumberInt(191), 
+    "setting" : "hr", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(192), 
+    "id" : NumberInt(192), 
+    "setting" : "mailgun_api_key", 
+    "value" : "343"
+}
+{ 
+    "_id" : NumberInt(193), 
+    "id" : NumberInt(193), 
+    "setting" : "sparkpost_api_key", 
+    "value" : ""
+}
+{ 
+    "_id" : NumberInt(194), 
+    "id" : NumberInt(194), 
+    "setting" : "mailgun_domain", 
+    "value" : "3434"
+}
+{ 
+    "_id" : NumberInt(195), 
+    "id" : NumberInt(195), 
+    "setting" : "show_sidebar_header", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(196), 
+    "id" : NumberInt(196), 
+    "setting" : "top_bar_is_dark", 
+    "value" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(198), 
+    "id" : NumberInt(198), 
+    "setting" : "slack_webhook_url", 
+    "value" : ""
+}
+{ 
+    "_id" : NumberInt(199), 
+    "id" : NumberInt(199), 
+    "setting" : "config_recaptcha_in_client_login", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(200), 
+    "id" : NumberInt(200), 
+    "setting" : "config_recaptcha_in_admin_login", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(201), 
+    "id" : NumberInt(201), 
+    "setting" : "contact_list_show_company_column", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(202), 
+    "id" : NumberInt(202), 
+    "setting" : "config_contact_list_show_group_column", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(203), 
+    "id" : NumberInt(203), 
+    "setting" : "contact_list_show_group_column", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(208), 
+    "id" : NumberInt(208), 
+    "setting" : "tickets_assigned_sms_notification", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(209), 
+    "id" : NumberInt(209), 
+    "setting" : "number_pad", 
+    "value" : "5"
+}
+{ 
+    "_id" : NumberInt(210), 
+    "id" : NumberInt(210), 
+    "setting" : "customer_code_prefix", 
+    "value" : "CUS-"
+}
+{ 
+    "_id" : NumberInt(211), 
+    "id" : NumberInt(211), 
+    "setting" : "customer_code_template", 
+    "value" : ""
+}
+{ 
+    "_id" : NumberInt(212), 
+    "id" : NumberInt(212), 
+    "setting" : "customer_code_current_number", 
+    "value" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(213), 
+    "id" : NumberInt(213), 
+    "setting" : "supplier_code_prefix", 
+    "value" : "SUP-"
+}
+{ 
+    "_id" : NumberInt(214), 
+    "id" : NumberInt(214), 
+    "setting" : "supplier_code_template", 
+    "value" : ""
+}
+{ 
+    "_id" : NumberInt(215), 
+    "id" : NumberInt(215), 
+    "setting" : "supplier_code_current_number", 
+    "value" : "13"
+}
+{ 
+    "_id" : NumberInt(216), 
+    "id" : NumberInt(216), 
+    "setting" : "income_code_prefix", 
+    "value" : "INCC-"
+}
+{ 
+    "_id" : NumberInt(217), 
+    "id" : NumberInt(217), 
+    "setting" : "income_code_template", 
+    "value" : ""
+}
+{ 
+    "_id" : NumberInt(218), 
+    "id" : NumberInt(218), 
+    "setting" : "income_code_current_number", 
+    "value" : NumberLong(1595413100294289100)
+}
+{ 
+    "_id" : NumberInt(219), 
+    "id" : NumberInt(219), 
+    "setting" : "expense_code_prefix", 
+    "value" : "EXP-"
+}
+{ 
+    "_id" : NumberInt(220), 
+    "id" : NumberInt(220), 
+    "setting" : "expense_code_template", 
+    "value" : ""
+}
+{ 
+    "_id" : NumberInt(221), 
+    "id" : NumberInt(221), 
+    "setting" : "expense_code_current_number", 
+    "value" : 9223372036854776000.0
+}
+{ 
+    "_id" : NumberInt(222), 
+    "id" : NumberInt(222), 
+    "setting" : "invoice_code_prefix", 
+    "value" : "INV-"
+}
+{ 
+    "_id" : NumberInt(223), 
+    "id" : NumberInt(223), 
+    "setting" : "invoice_code_template", 
+    "value" : ""
+}
+{ 
+    "_id" : NumberInt(224), 
+    "id" : NumberInt(224), 
+    "setting" : "invoice_code_current_number", 
+    "value" : NumberLong(5104400000200028)
+}
+{ 
+    "_id" : NumberInt(225), 
+    "id" : NumberInt(225), 
+    "setting" : "quotation_code_prefix", 
+    "value" : "QUOTE-"
+}
+{ 
+    "_id" : NumberInt(226), 
+    "id" : NumberInt(226), 
+    "setting" : "quotation_code_template", 
+    "value" : ""
+}
+{ 
+    "_id" : NumberInt(227), 
+    "id" : NumberInt(227), 
+    "setting" : "quotation_code_current_number", 
+    "value" : NumberInt(9)
+}
+{ 
+    "_id" : NumberInt(228), 
+    "id" : NumberInt(228), 
+    "setting" : "purchase_code_prefix", 
+    "value" : "PO-"
+}
+{ 
+    "_id" : NumberInt(229), 
+    "id" : NumberInt(229), 
+    "setting" : "purchase_code_template", 
+    "value" : ""
+}
+{ 
+    "_id" : NumberInt(230), 
+    "id" : NumberInt(230), 
+    "setting" : "purchase_code_current_number", 
+    "value" : NumberInt(23)
+}
+{ 
+    "_id" : NumberInt(231), 
+    "id" : NumberInt(231), 
+    "setting" : "contact_display_name_string", 
+    "value" : "Display Name"
+}
+{ 
+    "_id" : NumberInt(232), 
+    "id" : NumberInt(232), 
+    "setting" : "contact_extra_field", 
+    "value" : "Display Name"
+}
+{ 
+    "_id" : NumberInt(233), 
+    "id" : NumberInt(233), 
+    "setting" : "company_code_prefix", 
+    "value" : "COMP-"
+}
+{ 
+    "_id" : NumberInt(234), 
+    "id" : NumberInt(234), 
+    "setting" : "company_code_template", 
+    "value" : ""
+}
+{ 
+    "_id" : NumberInt(235), 
+    "id" : NumberInt(235), 
+    "setting" : "company_code_current_number", 
+    "value" : NumberInt(8)
+}
+{ 
+    "_id" : NumberInt(236), 
+    "id" : NumberInt(236), 
+    "setting" : "address_format", 
+    "value" : "default"
+}
+{ 
+    "_id" : NumberInt(237), 
+    "id" : NumberInt(237), 
+    "setting" : "vat_number", 
+    "value" : "351469827"
+}
+{ 
+    "_id" : NumberInt(238), 
+    "id" : NumberInt(238), 
+    "setting" : "", 
+    "value" : ""
+}
+{ 
+    "_id" : NumberInt(239), 
+    "id" : NumberInt(239), 
+    "setting" : "invoice_client_can_attach_signature", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(240), 
+    "id" : NumberInt(240), 
+    "setting" : "delivery_challans", 
+    "value" : "1"
+}
+{ 
+    "_id" : NumberInt(243), 
+    "id" : NumberInt(243), 
+    "setting" : "media_database", 
+    "value" : "no"
+}
+{ 
+    "_id" : NumberInt(244), 
+    "id" : NumberInt(244), 
+    "setting" : "media_theme", 
+    "value" : "win10"
+}
+{ 
+    "_id" : ObjectId("5f04642bef420000d9003660"), 
+    "setting" : "dashboard_widgets_tickets", 
+    "value" : "0"
+}
+{ 
+    "_id" : ObjectId("5f046442ef420000d9003661"), 
+    "setting" : "dashboard_widgets_tasks", 
+    "value" : "0"
+}
+{ 
+    "_id" : ObjectId("5f140907a7480000d2003f7f"), 
+    "setting" : "create_task_from_ticket", 
+    "value" : "1"
+}
+{ 
+    "_id" : ObjectId("5f140911a7480000d2003f80"), 
+    "setting" : "add_contact_remove_welcome_email", 
+    "value" : "1"
+}

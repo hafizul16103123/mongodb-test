@@ -1,0 +1,6 @@
+{ 
+    "_id" : ObjectId("5ef80f80e332f42b248b60bb"), 
+    "account_id" : ObjectId("5ef31c680714732b74147ca5"), 
+    "currency_id" : ObjectId("5ef80f80e332f42b248b60bb"), 
+    "balance" : "1000"
+}

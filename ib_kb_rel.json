@@ -1,0 +1,35 @@
+{ 
+    "_id" : ObjectId("5f0364c6c57f0000dd00430e"), 
+    "kbid" : ObjectId("5f0364c6c57f0000dd00430d"), 
+    "gid" : "1"
+}
+{ 
+    "_id" : ObjectId("5f0366e1c57f0000dd004310"), 
+    "kbid" : ObjectId("5f0366e1c57f0000dd00430f"), 
+    "gid" : "3"
+}
+{ 
+    "_id" : ObjectId("5f0366e1c57f0000dd004311"), 
+    "kbid" : ObjectId("5f0366e1c57f0000dd00430f"), 
+    "gid" : "2"
+}
+{ 
+    "_id" : ObjectId("5f0366e1c57f0000dd004312"), 
+    "kbid" : ObjectId("5f0366e1c57f0000dd00430f"), 
+    "gid" : "1"
+}
+{ 
+    "_id" : ObjectId("5f03d82aef420000d9003639"), 
+    "kbid" : ObjectId("5f03d82aef420000d9003638"), 
+    "gid" : "5f03d825ef420000d9003637"
+}
+{ 
+    "_id" : ObjectId("5f03d82aef420000d900363a"), 
+    "kbid" : ObjectId("5f03d82aef420000d9003638"), 
+    "gid" : "5f03d7e6ef420000d9003635"
+}
+{ 
+    "_id" : ObjectId("5f03d82aef420000d900363b"), 
+    "kbid" : ObjectId("5f03d82aef420000d9003638"), 
+    "gid" : "5f03d7d4ef420000d9003634"
+}

@@ -1,0 +1,44 @@
+{ 
+    "_id" : ObjectId("5ef89d22d338000073002d04"), 
+    "title" : "hh", 
+    "currency" : "USD", 
+    "from_account_id" : "1", 
+    "contact_id" : "4", 
+    "category_id" : "14", 
+    "start_date" : "", 
+    "end_date" : "", 
+    "next_date" : "2020-06-27", 
+    "net_amount" : NumberInt(15), 
+    "recurring_type" : "Monthly", 
+    "website" : "", 
+    "is_paid" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f17fed13b440000370034b6"), 
+    "title" : "pen", 
+    "currency" : "NEW", 
+    "from_account_id" : "5ef31c680714732b74147ca5", 
+    "contact_id" : "5f009c1f4a3200009f0060eb", 
+    "category_id" : "5ef318e60714732b74147ca3", 
+    "start_date" : "", 
+    "end_date" : "", 
+    "next_date" : "2020-06-27", 
+    "net_amount" : "10.00", 
+    "recurring_type" : "Monthly", 
+    "website" : ""
+}
+{ 
+    "_id" : ObjectId("5ef88ed6223100000a007735"), 
+    "title" : "gd ty", 
+    "currency" : "BDT", 
+    "from_account_id" : "", 
+    "contact_id" : "", 
+    "category_id" : "5ef3184e0714732b74147c9f", 
+    "start_date" : "", 
+    "end_date" : "", 
+    "next_date" : "2020-06-03", 
+    "net_amount" : 25.0, 
+    "recurring_type" : "Monthly", 
+    "website" : "", 
+    "is_paid" : NumberInt(1)
+}

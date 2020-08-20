@@ -1,0 +1,47 @@
+{ 
+    "_id" : ObjectId("5ef8105ee332f42b248b60bc"), 
+    "cname" : "USD", 
+    "iso_code" : "USD", 
+    "symbol" : "$", 
+    "rate" : NumberInt(1), 
+    "prefix" : null, 
+    "suffix" : null, 
+    "format" : null, 
+    "decimal_separator" : null, 
+    "thousand_separator" : null, 
+    "created_at" : ISODate("2018-11-20T16:57:47.000+0000"), 
+    "created_by" : null, 
+    "updated_at" : ISODate("2018-11-20T16:57:47.000+0000"), 
+    "updated_by" : null, 
+    "available_in" : null, 
+    "isdefault" : NumberInt(1), 
+    "trash" : NumberInt(0), 
+    "archived" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5ef81079e332f42b248b60bd"), 
+    "cname" : "BDT", 
+    "iso_code" : "BDT", 
+    "symbol" : "", 
+    "rate" : NumberInt(1), 
+    "prefix" : null, 
+    "suffix" : null, 
+    "format" : null, 
+    "decimal_separator" : null, 
+    "thousand_separator" : null, 
+    "created_at" : ISODate("2019-12-25T10:15:22.000+0000"), 
+    "created_by" : null, 
+    "updated_at" : ISODate("2020-06-02T18:38:27.000+0000"), 
+    "updated_by" : null, 
+    "available_in" : null, 
+    "isdefault" : NumberInt(0), 
+    "trash" : NumberInt(0), 
+    "archived" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c2d7f6f710000ff0017ac"), 
+    "cname" : "NEW", 
+    "iso_code" : "NEW", 
+    "symbol" : "", 
+    "rate" : "1.0000"
+}

@@ -1,0 +1,88 @@
+{ 
+    "_id" : NumberInt(1), 
+    "id" : NumberInt(1), 
+    "name" : "Cash", 
+    "sorder" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(2), 
+    "id" : NumberInt(2), 
+    "name" : "Check", 
+    "sorder" : NumberInt(4)
+}
+{ 
+    "_id" : NumberInt(3), 
+    "id" : NumberInt(3), 
+    "name" : "Credit Card", 
+    "sorder" : NumberInt(5)
+}
+{ 
+    "_id" : NumberInt(4), 
+    "id" : NumberInt(4), 
+    "name" : "Debit", 
+    "sorder" : NumberInt(6)
+}
+{ 
+    "_id" : NumberInt(5), 
+    "id" : NumberInt(5), 
+    "name" : "Electronic Transfer", 
+    "sorder" : NumberInt(7)
+}
+{ 
+    "_id" : NumberInt(9), 
+    "id" : NumberInt(9), 
+    "name" : "Paypal", 
+    "sorder" : NumberInt(2)
+}
+{ 
+    "_id" : NumberInt(10), 
+    "id" : NumberInt(10), 
+    "name" : "ATM Withdrawals", 
+    "sorder" : NumberInt(3)
+}
+{ 
+    "_id" : NumberInt(11), 
+    "id" : NumberInt(11), 
+    "name" : "Pagseguro", 
+    "sorder" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0d34872c691319ec89d097"), 
+    "name" : "Cash", 
+    "sorder" : NumberInt(5)
+}
+{ 
+    "_id" : ObjectId("5f0d34922c691319ec89d098"), 
+    "name" : "Check", 
+    "sorder" : NumberInt(7)
+}
+{ 
+    "_id" : ObjectId("5f0d349c2c691319ec89d099"), 
+    "name" : "Credit Card", 
+    "sorder" : NumberInt(8)
+}
+{ 
+    "_id" : ObjectId("5f0d34a82c691319ec89d09a"), 
+    "name" : "Debit", 
+    "sorder" : NumberInt(9)
+}
+{ 
+    "_id" : ObjectId("5f0d34b32c691319ec89d09b"), 
+    "name" : "Electronic Transfer", 
+    "sorder" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5f0d34be2c691319ec89d09c"), 
+    "name" : "Paypal", 
+    "sorder" : NumberInt(4)
+}
+{ 
+    "_id" : ObjectId("5f0d34cd2c691319ec89d09d"), 
+    "name" : "ATM Withdrawals", 
+    "sorder" : NumberInt(6)
+}
+{ 
+    "_id" : ObjectId("5f0d34d52c691319ec89d09e"), 
+    "name" : "Pagseguro", 
+    "sorder" : NumberInt(3)
+}

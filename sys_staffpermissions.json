@@ -1,0 +1,1080 @@
+{ 
+    "_id" : NumberInt(111), 
+    "id" : NumberInt(111), 
+    "rid" : NumberInt(3), 
+    "pid" : NumberInt(1), 
+    "shortname" : "customers", 
+    "can_view" : NumberInt(1), 
+    "can_edit" : NumberInt(1), 
+    "can_create" : NumberInt(1), 
+    "can_delete" : NumberInt(1), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(112), 
+    "id" : NumberInt(112), 
+    "rid" : NumberInt(3), 
+    "pid" : NumberInt(2), 
+    "shortname" : "companies", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(113), 
+    "id" : NumberInt(113), 
+    "rid" : NumberInt(3), 
+    "pid" : NumberInt(3), 
+    "shortname" : "transactions", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(114), 
+    "id" : NumberInt(114), 
+    "rid" : NumberInt(3), 
+    "pid" : NumberInt(4), 
+    "shortname" : "sales", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(115), 
+    "id" : NumberInt(115), 
+    "rid" : NumberInt(3), 
+    "pid" : NumberInt(5), 
+    "shortname" : "bank_n_cash", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(116), 
+    "id" : NumberInt(116), 
+    "rid" : NumberInt(3), 
+    "pid" : NumberInt(6), 
+    "shortname" : "products_n_services", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(117), 
+    "id" : NumberInt(117), 
+    "rid" : NumberInt(3), 
+    "pid" : NumberInt(7), 
+    "shortname" : "reports", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(118), 
+    "id" : NumberInt(118), 
+    "rid" : NumberInt(3), 
+    "pid" : NumberInt(8), 
+    "shortname" : "utilities", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(119), 
+    "id" : NumberInt(119), 
+    "rid" : NumberInt(3), 
+    "pid" : NumberInt(9), 
+    "shortname" : "appearance", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(120), 
+    "id" : NumberInt(120), 
+    "rid" : NumberInt(3), 
+    "pid" : NumberInt(10), 
+    "shortname" : "plugins", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(121), 
+    "id" : NumberInt(121), 
+    "rid" : NumberInt(3), 
+    "pid" : NumberInt(11), 
+    "shortname" : "calendar", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(122), 
+    "id" : NumberInt(122), 
+    "rid" : NumberInt(3), 
+    "pid" : NumberInt(12), 
+    "shortname" : "leads", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(123), 
+    "id" : NumberInt(123), 
+    "rid" : NumberInt(3), 
+    "pid" : NumberInt(13), 
+    "shortname" : "tasks", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(124), 
+    "id" : NumberInt(124), 
+    "rid" : NumberInt(3), 
+    "pid" : NumberInt(14), 
+    "shortname" : "contracts", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(125), 
+    "id" : NumberInt(125), 
+    "rid" : NumberInt(3), 
+    "pid" : NumberInt(15), 
+    "shortname" : "orders", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(126), 
+    "id" : NumberInt(126), 
+    "rid" : NumberInt(3), 
+    "pid" : NumberInt(16), 
+    "shortname" : "settings", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(127), 
+    "id" : NumberInt(127), 
+    "rid" : NumberInt(3), 
+    "pid" : NumberInt(17), 
+    "shortname" : "documents", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(128), 
+    "id" : NumberInt(128), 
+    "rid" : NumberInt(3), 
+    "pid" : NumberInt(18), 
+    "shortname" : "purchase", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(129), 
+    "id" : NumberInt(129), 
+    "rid" : NumberInt(3), 
+    "pid" : NumberInt(19), 
+    "shortname" : "suppliers", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(130), 
+    "id" : NumberInt(130), 
+    "rid" : NumberInt(3), 
+    "pid" : NumberInt(20), 
+    "shortname" : "sms", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(131), 
+    "id" : NumberInt(131), 
+    "rid" : NumberInt(3), 
+    "pid" : NumberInt(21), 
+    "shortname" : "support", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(132), 
+    "id" : NumberInt(132), 
+    "rid" : NumberInt(3), 
+    "pid" : NumberInt(22), 
+    "shortname" : "kb", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(133), 
+    "id" : NumberInt(133), 
+    "rid" : NumberInt(3), 
+    "pid" : NumberInt(23), 
+    "shortname" : "password_manager", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(134), 
+    "id" : NumberInt(134), 
+    "rid" : NumberInt(3), 
+    "pid" : NumberInt(24), 
+    "shortname" : "hr", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c084b6f710000ff001758"), 
+    "rid" : ObjectId("5f0c082f6f710000ff001727"), 
+    "pid" : ObjectId("5f0bfce8732ff4172c1be7ae"), 
+    "shortname" : "customers", 
+    "can_view" : NumberInt(1), 
+    "can_edit" : NumberInt(1), 
+    "can_create" : NumberInt(1), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c084b6f710000ff001759"), 
+    "rid" : ObjectId("5f0c082f6f710000ff001727"), 
+    "pid" : ObjectId("5f0bfcf0732ff4172c1be7af"), 
+    "shortname" : "companies", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c084b6f710000ff00175a"), 
+    "rid" : ObjectId("5f0c082f6f710000ff001727"), 
+    "pid" : ObjectId("5f0bfcf9732ff4172c1be7b0"), 
+    "shortname" : "transactions", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c084b6f710000ff00175b"), 
+    "rid" : ObjectId("5f0c082f6f710000ff001727"), 
+    "pid" : ObjectId("5f0bfd02732ff4172c1be7b1"), 
+    "shortname" : "sales", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c084b6f710000ff00175c"), 
+    "rid" : ObjectId("5f0c082f6f710000ff001727"), 
+    "pid" : ObjectId("5f0bfd0b732ff4172c1be7b2"), 
+    "shortname" : "bank_n_cash", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c084b6f710000ff00175d"), 
+    "rid" : ObjectId("5f0c082f6f710000ff001727"), 
+    "pid" : ObjectId("5f0bfd15732ff4172c1be7b3"), 
+    "shortname" : "products_n_services", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c084b6f710000ff00175e"), 
+    "rid" : ObjectId("5f0c082f6f710000ff001727"), 
+    "pid" : ObjectId("5f0bfd1f732ff4172c1be7b4"), 
+    "shortname" : "reports", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c084b6f710000ff00175f"), 
+    "rid" : ObjectId("5f0c082f6f710000ff001727"), 
+    "pid" : ObjectId("5f0bfd2c732ff4172c1be7b5"), 
+    "shortname" : "utilities", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c084b6f710000ff001760"), 
+    "rid" : ObjectId("5f0c082f6f710000ff001727"), 
+    "pid" : ObjectId("5f0bfd36732ff4172c1be7b6"), 
+    "shortname" : "appearance", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c084b6f710000ff001761"), 
+    "rid" : ObjectId("5f0c082f6f710000ff001727"), 
+    "pid" : ObjectId("5f0bfd40732ff4172c1be7b7"), 
+    "shortname" : "plugins", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c084b6f710000ff001762"), 
+    "rid" : ObjectId("5f0c082f6f710000ff001727"), 
+    "pid" : ObjectId("5f0bfd49732ff4172c1be7b8"), 
+    "shortname" : "calendar", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c084b6f710000ff001763"), 
+    "rid" : ObjectId("5f0c082f6f710000ff001727"), 
+    "pid" : ObjectId("5f0bfd53732ff4172c1be7b9"), 
+    "shortname" : "leads", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c084b6f710000ff001764"), 
+    "rid" : ObjectId("5f0c082f6f710000ff001727"), 
+    "pid" : ObjectId("5f0bfd5d732ff4172c1be7ba"), 
+    "shortname" : "tasks", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c084b6f710000ff001765"), 
+    "rid" : ObjectId("5f0c082f6f710000ff001727"), 
+    "pid" : ObjectId("5f0bfd67732ff4172c1be7bb"), 
+    "shortname" : "contracts", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c084b6f710000ff001766"), 
+    "rid" : ObjectId("5f0c082f6f710000ff001727"), 
+    "pid" : ObjectId("5f0bfd6f732ff4172c1be7bc"), 
+    "shortname" : "orders", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c084b6f710000ff001767"), 
+    "rid" : ObjectId("5f0c082f6f710000ff001727"), 
+    "pid" : ObjectId("5f0bfd78732ff4172c1be7bd"), 
+    "shortname" : "settings", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c084b6f710000ff001768"), 
+    "rid" : ObjectId("5f0c082f6f710000ff001727"), 
+    "pid" : ObjectId("5f0bfd82732ff4172c1be7be"), 
+    "shortname" : "documents", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c084b6f710000ff001769"), 
+    "rid" : ObjectId("5f0c082f6f710000ff001727"), 
+    "pid" : ObjectId("5f0bfd8a732ff4172c1be7bf"), 
+    "shortname" : "purchase", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c084b6f710000ff00176a"), 
+    "rid" : ObjectId("5f0c082f6f710000ff001727"), 
+    "pid" : ObjectId("5f0bfd94732ff4172c1be7c0"), 
+    "shortname" : "suppliers", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c084b6f710000ff00176b"), 
+    "rid" : ObjectId("5f0c082f6f710000ff001727"), 
+    "pid" : ObjectId("5f0bfda2732ff4172c1be7c1"), 
+    "shortname" : "sms", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c084b6f710000ff00176c"), 
+    "rid" : ObjectId("5f0c082f6f710000ff001727"), 
+    "pid" : ObjectId("5f0bfe74732ff4172c1be7c2"), 
+    "shortname" : "support", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c084b6f710000ff00176d"), 
+    "rid" : ObjectId("5f0c082f6f710000ff001727"), 
+    "pid" : ObjectId("5f0bfe8e732ff4172c1be7c3"), 
+    "shortname" : "knowledgebase", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c084b6f710000ff00176e"), 
+    "rid" : ObjectId("5f0c082f6f710000ff001727"), 
+    "pid" : ObjectId("5f0bfec2732ff4172c1be7c4"), 
+    "shortname" : "password_anager", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c084b6f710000ff00176f"), 
+    "rid" : ObjectId("5f0c082f6f710000ff001727"), 
+    "pid" : ObjectId("5f0bfeec732ff4172c1be7c5"), 
+    "shortname" : "hr", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff001771"), 
+    "rid" : ObjectId("5f0c09046f710000ff001770"), 
+    "pid" : ObjectId("5f0bfce8732ff4172c1be7ae"), 
+    "shortname" : "customers", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff001772"), 
+    "rid" : ObjectId("5f0c09046f710000ff001770"), 
+    "pid" : ObjectId("5f0bfcf0732ff4172c1be7af"), 
+    "shortname" : "companies", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff001773"), 
+    "rid" : ObjectId("5f0c09046f710000ff001770"), 
+    "pid" : ObjectId("5f0bfcf9732ff4172c1be7b0"), 
+    "shortname" : "transactions", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff001774"), 
+    "rid" : ObjectId("5f0c09046f710000ff001770"), 
+    "pid" : ObjectId("5f0bfd02732ff4172c1be7b1"), 
+    "shortname" : "sales", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff001775"), 
+    "rid" : ObjectId("5f0c09046f710000ff001770"), 
+    "pid" : ObjectId("5f0bfd0b732ff4172c1be7b2"), 
+    "shortname" : "bank_n_cash", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff001776"), 
+    "rid" : ObjectId("5f0c09046f710000ff001770"), 
+    "pid" : ObjectId("5f0bfd15732ff4172c1be7b3"), 
+    "shortname" : "products_n_services", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff001777"), 
+    "rid" : ObjectId("5f0c09046f710000ff001770"), 
+    "pid" : ObjectId("5f0bfd1f732ff4172c1be7b4"), 
+    "shortname" : "reports", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff001778"), 
+    "rid" : ObjectId("5f0c09046f710000ff001770"), 
+    "pid" : ObjectId("5f0bfd2c732ff4172c1be7b5"), 
+    "shortname" : "utilities", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff001779"), 
+    "rid" : ObjectId("5f0c09046f710000ff001770"), 
+    "pid" : ObjectId("5f0bfd36732ff4172c1be7b6"), 
+    "shortname" : "appearance", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff00177a"), 
+    "rid" : ObjectId("5f0c09046f710000ff001770"), 
+    "pid" : ObjectId("5f0bfd40732ff4172c1be7b7"), 
+    "shortname" : "plugins", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff00177b"), 
+    "rid" : ObjectId("5f0c09046f710000ff001770"), 
+    "pid" : ObjectId("5f0bfd49732ff4172c1be7b8"), 
+    "shortname" : "calendar", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff00177c"), 
+    "rid" : ObjectId("5f0c09046f710000ff001770"), 
+    "pid" : ObjectId("5f0bfd53732ff4172c1be7b9"), 
+    "shortname" : "leads", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff00177d"), 
+    "rid" : ObjectId("5f0c09046f710000ff001770"), 
+    "pid" : ObjectId("5f0bfd5d732ff4172c1be7ba"), 
+    "shortname" : "tasks", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff00177e"), 
+    "rid" : ObjectId("5f0c09046f710000ff001770"), 
+    "pid" : ObjectId("5f0bfd67732ff4172c1be7bb"), 
+    "shortname" : "contracts", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff00177f"), 
+    "rid" : ObjectId("5f0c09046f710000ff001770"), 
+    "pid" : ObjectId("5f0bfd6f732ff4172c1be7bc"), 
+    "shortname" : "orders", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff001780"), 
+    "rid" : ObjectId("5f0c09046f710000ff001770"), 
+    "pid" : ObjectId("5f0bfd78732ff4172c1be7bd"), 
+    "shortname" : "settings", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff001781"), 
+    "rid" : ObjectId("5f0c09046f710000ff001770"), 
+    "pid" : ObjectId("5f0bfd82732ff4172c1be7be"), 
+    "shortname" : "documents", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff001782"), 
+    "rid" : ObjectId("5f0c09046f710000ff001770"), 
+    "pid" : ObjectId("5f0bfd8a732ff4172c1be7bf"), 
+    "shortname" : "purchase", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff001783"), 
+    "rid" : ObjectId("5f0c09046f710000ff001770"), 
+    "pid" : ObjectId("5f0bfd94732ff4172c1be7c0"), 
+    "shortname" : "suppliers", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff001784"), 
+    "rid" : ObjectId("5f0c09046f710000ff001770"), 
+    "pid" : ObjectId("5f0bfda2732ff4172c1be7c1"), 
+    "shortname" : "sms", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff001785"), 
+    "rid" : ObjectId("5f0c09046f710000ff001770"), 
+    "pid" : ObjectId("5f0bfe74732ff4172c1be7c2"), 
+    "shortname" : "support", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff001786"), 
+    "rid" : ObjectId("5f0c09046f710000ff001770"), 
+    "pid" : ObjectId("5f0bfe8e732ff4172c1be7c3"), 
+    "shortname" : "knowledgebase", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff001787"), 
+    "rid" : ObjectId("5f0c09046f710000ff001770"), 
+    "pid" : ObjectId("5f0bfec2732ff4172c1be7c4"), 
+    "shortname" : "password_anager", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09046f710000ff001788"), 
+    "rid" : ObjectId("5f0c09046f710000ff001770"), 
+    "pid" : ObjectId("5f0bfeec732ff4172c1be7c5"), 
+    "shortname" : "hr", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09156f710000ff00178a"), 
+    "rid" : ObjectId("5f0c09156f710000ff001789"), 
+    "pid" : ObjectId("5f0bfce8732ff4172c1be7ae"), 
+    "shortname" : "customers", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09156f710000ff00178b"), 
+    "rid" : ObjectId("5f0c09156f710000ff001789"), 
+    "pid" : ObjectId("5f0bfcf0732ff4172c1be7af"), 
+    "shortname" : "companies", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09156f710000ff00178c"), 
+    "rid" : ObjectId("5f0c09156f710000ff001789"), 
+    "pid" : ObjectId("5f0bfcf9732ff4172c1be7b0"), 
+    "shortname" : "transactions", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09156f710000ff00178d"), 
+    "rid" : ObjectId("5f0c09156f710000ff001789"), 
+    "pid" : ObjectId("5f0bfd02732ff4172c1be7b1"), 
+    "shortname" : "sales", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09156f710000ff00178e"), 
+    "rid" : ObjectId("5f0c09156f710000ff001789"), 
+    "pid" : ObjectId("5f0bfd0b732ff4172c1be7b2"), 
+    "shortname" : "bank_n_cash", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09156f710000ff00178f"), 
+    "rid" : ObjectId("5f0c09156f710000ff001789"), 
+    "pid" : ObjectId("5f0bfd15732ff4172c1be7b3"), 
+    "shortname" : "products_n_services", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09156f710000ff001790"), 
+    "rid" : ObjectId("5f0c09156f710000ff001789"), 
+    "pid" : ObjectId("5f0bfd1f732ff4172c1be7b4"), 
+    "shortname" : "reports", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09156f710000ff001791"), 
+    "rid" : ObjectId("5f0c09156f710000ff001789"), 
+    "pid" : ObjectId("5f0bfd2c732ff4172c1be7b5"), 
+    "shortname" : "utilities", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09156f710000ff001792"), 
+    "rid" : ObjectId("5f0c09156f710000ff001789"), 
+    "pid" : ObjectId("5f0bfd36732ff4172c1be7b6"), 
+    "shortname" : "appearance", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09156f710000ff001793"), 
+    "rid" : ObjectId("5f0c09156f710000ff001789"), 
+    "pid" : ObjectId("5f0bfd40732ff4172c1be7b7"), 
+    "shortname" : "plugins", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09156f710000ff001794"), 
+    "rid" : ObjectId("5f0c09156f710000ff001789"), 
+    "pid" : ObjectId("5f0bfd49732ff4172c1be7b8"), 
+    "shortname" : "calendar", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09156f710000ff001795"), 
+    "rid" : ObjectId("5f0c09156f710000ff001789"), 
+    "pid" : ObjectId("5f0bfd53732ff4172c1be7b9"), 
+    "shortname" : "leads", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09156f710000ff001796"), 
+    "rid" : ObjectId("5f0c09156f710000ff001789"), 
+    "pid" : ObjectId("5f0bfd5d732ff4172c1be7ba"), 
+    "shortname" : "tasks", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09156f710000ff001797"), 
+    "rid" : ObjectId("5f0c09156f710000ff001789"), 
+    "pid" : ObjectId("5f0bfd67732ff4172c1be7bb"), 
+    "shortname" : "contracts", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09156f710000ff001798"), 
+    "rid" : ObjectId("5f0c09156f710000ff001789"), 
+    "pid" : ObjectId("5f0bfd6f732ff4172c1be7bc"), 
+    "shortname" : "orders", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09156f710000ff001799"), 
+    "rid" : ObjectId("5f0c09156f710000ff001789"), 
+    "pid" : ObjectId("5f0bfd78732ff4172c1be7bd"), 
+    "shortname" : "settings", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09156f710000ff00179a"), 
+    "rid" : ObjectId("5f0c09156f710000ff001789"), 
+    "pid" : ObjectId("5f0bfd82732ff4172c1be7be"), 
+    "shortname" : "documents", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09156f710000ff00179b"), 
+    "rid" : ObjectId("5f0c09156f710000ff001789"), 
+    "pid" : ObjectId("5f0bfd8a732ff4172c1be7bf"), 
+    "shortname" : "purchase", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09156f710000ff00179c"), 
+    "rid" : ObjectId("5f0c09156f710000ff001789"), 
+    "pid" : ObjectId("5f0bfd94732ff4172c1be7c0"), 
+    "shortname" : "suppliers", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09156f710000ff00179d"), 
+    "rid" : ObjectId("5f0c09156f710000ff001789"), 
+    "pid" : ObjectId("5f0bfda2732ff4172c1be7c1"), 
+    "shortname" : "sms", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09156f710000ff00179e"), 
+    "rid" : ObjectId("5f0c09156f710000ff001789"), 
+    "pid" : ObjectId("5f0bfe74732ff4172c1be7c2"), 
+    "shortname" : "support", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09156f710000ff00179f"), 
+    "rid" : ObjectId("5f0c09156f710000ff001789"), 
+    "pid" : ObjectId("5f0bfe8e732ff4172c1be7c3"), 
+    "shortname" : "knowledgebase", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09156f710000ff0017a0"), 
+    "rid" : ObjectId("5f0c09156f710000ff001789"), 
+    "pid" : ObjectId("5f0bfec2732ff4172c1be7c4"), 
+    "shortname" : "password_anager", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f0c09156f710000ff0017a1"), 
+    "rid" : ObjectId("5f0c09156f710000ff001789"), 
+    "pid" : ObjectId("5f0bfeec732ff4172c1be7c5"), 
+    "shortname" : "hr", 
+    "can_view" : NumberInt(0), 
+    "can_edit" : NumberInt(0), 
+    "can_create" : NumberInt(0), 
+    "can_delete" : NumberInt(0), 
+    "all_data" : NumberInt(0)
+}

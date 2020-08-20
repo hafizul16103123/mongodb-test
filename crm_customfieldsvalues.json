@@ -1,0 +1,30 @@
+{ 
+    "_id" : ObjectId("5f1958924c520000c0006f8f"), 
+    "fieldid" : ObjectId("5f0d4c007028000059002ed0"), 
+    "relid" : ObjectId("5f1958924c520000c0006f8d"), 
+    "fvalue" : ""
+}
+{ 
+    "_id" : ObjectId("5f1966614c520000c0006fb4"), 
+    "fieldid" : ObjectId("5f0d4c007028000059002ed0"), 
+    "relid" : "5ef1e626b701000099000396", 
+    "fvalue" : ""
+}
+{ 
+    "_id" : ObjectId("5f1970194c520000c0006fb6"), 
+    "fieldid" : ObjectId("5f0d4c007028000059002ed0"), 
+    "relid" : "5ef1e626b701000099000396", 
+    "fvalue" : ""
+}
+{ 
+    "_id" : ObjectId("5f19702c4c520000c0006fb7"), 
+    "fieldid" : ObjectId("5f0d4c007028000059002ed0"), 
+    "relid" : "5f0093cc4a3200009f0060df", 
+    "fvalue" : ""
+}
+{ 
+    "_id" : ObjectId("5f1bca99f44c0000020002ed"), 
+    "fieldid" : ObjectId("5f0d4c007028000059002ed0"), 
+    "relid" : "5f0093784a3200009f0060dd", 
+    "fvalue" : ""
+}
